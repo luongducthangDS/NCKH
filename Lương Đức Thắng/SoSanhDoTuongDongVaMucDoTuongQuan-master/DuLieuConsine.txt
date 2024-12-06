@@ -1,0 +1,600 @@
+1	Thật kinh ngạc, 42 khối vuông hình sắc cạnh không hơn kém nhau 1 gam.	Thật tuyệt vời, các khối hình đều giống nhau giống nhau một cách đáng kinh ngạc.	0.758893	Hình học
+2	Ông Nguyễn Bá Thụ, cục trưởng Cục Kiểm lâm VN, thừa nhận tình trạng vận chuyển, buôn bán hổ và xương hổ trái phép vẫn đang diễn ra tại VN và đặc biệt sôi động ở Hà Nội.	Ông Thụ, cục trưởng Cục Kiểm lâm VN, thừa nhận tình trạng vận chuyển, buôn bán hổ và xương hổ trái phép vẫn đang diễn ra tại VN và đặc biệt sôi động ở Hà Nội.	0.995781	Tin Tức
+3	Đá, bụi, không khí ngột ngạt, nước tuôn xuống và tối tăm khiến chúng tôi lẫn những người thợ lặng người.	Đá, bụi, không khí ngột ngạt, nước tuôn xuống và tối tăm khiến chúng tôi lẫn những người thợ lặng người, nhưng không ngại những khó khăn đó những người thợn lặn vẫn cần mẫn làm việc hàng ngày.	0.9378213	Đời Sống
+4	Trước khi vào hầm, kỹ sư Đàm Khắc Lĩnh tự tay phát cho mỗi người một chiếc áo phản quang, một đôi ủng cùng chiếc mũ bảo hộ làm bằng nhựa cứng khá nặng.	Trước khi vào hầm, những con thỏ đều sẽ cảnh giác nhìn xung quanh để xem có những con thú săn mồi nào rình rập gần đó không.	0.7884649	Tin Tức
+5	Còn với những người thợ khoan hầm Sông Đà, sự kiện như thế đã từng diễn ra và giờ đây trước mắt họ lại có những công trình mới đang vẫy gọi . 	Còn với những người thợ khoan hầm Sông Đà, sự kiện như thế đã xảy ra rất nhiều là và không còn xa lạ với họ nữa. 	0.9018766	Tin Tức
+6	Sáng nay phóng xe máy từ Cam Ly vào Dankia bất chợt tôi bàng hoàng: một con đường sang trọng, vút dài bóng mượt, giữa một rìa phía tây trải xuống cánh cung đông bắc còn gần như nguyên sơ của thành phố cao nguyên đã hình thành.	Một con đường sang trọng, vút dài bóng mượt, giữa một rìa phía tây trải xuống cánh cung đông bắc còn gần như nguyên sơ của thành phố cao nguyên đã hình thành.	0.96544576	Đời Sống
+7	Điểm cuối của con đường là vùng sơn thủy gần như trinh nguyên mà ta có thể nhìn thấy nó từ đỉnh cao hơn 1900 m của dãy Lang Bian.	Điểm đến của chúng ta gần như là những con đường khó khăn nhất, nhưng nếu chúng ta cố gắng thì mọi chuyện đều có thể hoàn thành.	0.6719507	Đời Sống
+8	Toàn bộ khu vực này ( bao gồm hồ Suối Vàng và hàng nghìn hecta rừng thông đặc dụng, phòng hộ xung quanh ) đã được Chính phủ cho phép xây dựng quần thể du lịch cao cấp lớn nhất VN với tổng vốn đầu tư hơn 700 triệu USD.	Với kiểu “ đón đầu ” dự án, nhiều năm qua đã có rất nhiều người đến đây lấn chiếm đất rừng trái phép, mua bán sang nhượng đất lâm nghiệp với mục đích “ đầu cơ đất ” với diện tích lên đến hàng trăm hecta, trong đó có không ít người là cán bộ các cấp của địa phương.	0.82820404	Tin Tức
+9	Một thành viên đoàn thanh tra cho biết chậm nhất đến ngày 26 – 10 – 2003 sẽ có kết quả chính thức của cuộc thanh tra để tỉnh có biện pháp xử lý kiên quyết những trường hợp vi phạm.	Một thành viên đoàn thanh tra cho biết kết quả chính thức của cuộc thanh tra để tỉnh có biện pháp xử lý kiên quyết những trường hợp vi phạm.	0.95253265	Tin Tức
+10	Hàng chục trang trại nằm rải rác đây đó trong khu vực được gọi tên là Suối Cạn ( thuộc ban quản lý rừng phòng hộ Sêrêpôk ) và nhiều lâm phận không tên khác.	Hà chục trang trại nằm liền kề nhau trong khu vực được gọi tên là Suối Cạn.	0.84586465	Địa Lý
+11	Mới đây, tổng cục trưởng Tổng cục Du lịch Võ Thị Thắng vào đến tận đây, rồi người ta thấy bà lắc đầu ngao ngán.	Gần đây, tổng cục trưởng Tổng cục Du lịch Võ Thị Thắng có đến thăm và được sự chào đón nhiệt tình của người dân.	0.871588	Tin Tức
+12	Dự án “ Dankia Resort ” đóng băng, nhưng giờ đây trên đường vào “ thành phố Đà Lạt 2 ” của mơ ước ấy, người ta thấy những hàng quán lố nhố nhếch nhác được dựng lên, những xe du lịch mang biển số TP. HCM, Đồng Nai, Vũng Tàu, Tây Nam bộ đổ đến dày đặc.	Sáu năm trôi đi vắng lạnh kể từ ngày dự án “ Dankia Resort ” được phê duyệt, ở Lâm Đồng dường như người dân lơi dần để ý đến nó, báo chí cũng không còn say sưa nhắc đến.	0.8567755	Tin Tức
+13	Và mới đây thôi, trong một cuộc họp tại phòng họp trung tâm của UBND tỉnh Lâm Đồng, tân bí thư của Lâm Đồng Nguyễn Văn Đẳng nói rằng Singapore vẫn tiếp tục đeo đuổi “ Dankia Resort ”, nhất là khi họ nghe tin đường cao tốc Đà Lạt - Dầu Giây sắp mở, và phi trường Liên Khương nay đang “ lên đời ” thành phi trường quốc tế.	Và mới gần đây, trong một cuộc họp, tân bí thư của Lâm Đồng Nguyễn Văn Đẳng chia sẻ rằng Singapore vẫn tiếp  tục đeo đuổi “ Dankia Resort ”, nhất là khi họ nghe tin đường cao tốc Đà Lạt - Dầu Giây sắp mở, và phi trường Liên Khương nay đang “ lên đời ” thành phi trường quốc tế.	0.9750956	Tin Tức
+14	Trên bãi đất bồi mà người địa phương gọi là cồn Giá nổi lên như một ốc đảo hoang vu giữa bốn bề trời nước của đầm Cầu Hai ( một đầm lớn ở phía nam Thừa  Thiên - Huế ), đã ra đời một trang trại nuôi tôm với hệ thống bờ đập, kênh  mương, ao hồ công phu.	Trên bãi đất bồi mà người địa phương gọi là cồn Giá nổi lên như một ốc đảo hoang vu giữa bốn bề trời nước của đầm Cầu Hai.	0.92559123	Tin Tức
+15	Sau những lần đi thu gom tôm đất do ngư dân đánh bắt dưới đầm để bán cho nhà máy chế biến hải sản xuất khẩu, anh phát hiện trong đó có lẫn những con tôm sú.	Sau những lần đi thu gom tôm đất do ngư dân đánh bắt, anh phát hiện trong đó có lẫn những con tôm sú.	0.95633614	Đời Sống
+16	Trong một cơn cùng quẫn, Đỗi đã tưới dầu lên chiếc đò rách nát, rồi chở cả vợ con chạy ra giữa đầm toan nổi lửa để chấm dứt mọi sự khổ ải.	Về đi ông Đỗi ơi, ông đày ải vợ con chết mất, ngay cả người làm công cho anh thấy cảnh đó cũng nản lòng.	0.8326254	Văn Học
+17	Phường gà Ninh Xá cách thủ đô Hà Nội hơn 30 km đường ngay trung tâm thị xã Bắc Ninh.	Phường gà Ninh Xá cách xa thủ đô Hà Nội gần 30 km đường ngay trung tâm thị xã Bắc Ninh.	0.993403	Tin Tức
+18	Phần nhiều họ là những thành phần có “ máu mặt ” ở địa phương, nếu chỉ là người bình thường chắc chẳng đủ gan để mở một sới ngay giữa ban ngày ban mặt.	Phần nhiều họ là những thành phần có “ máu mặt ” ở địa phương, nếu chỉ là người bình thường chắc suy nghĩ cũng không mở sới ngay giữa ban ngày ban mặt.	0.9760339	Tin Tức
+19	Họ mở sới không phải chỉ là tạo sân chơi “ lành mạnh ” cho dân mê gà mà cốt để kinh doanh, thu tiền sới sau mỗi trận đấu, trong đó bao gồm cả “ phí an ninh ”, “ phí liên lạc ”.	Họ đồng thời cũng là những “ tín đồ ” của “ đạo bạc gà ”.	0.69121885	Tin Tức
+20	Điều đáng ngạc nhiên là sự tồn tại của các sới gà cờ bạc thứ thiệt này ngày một lộ liễu, thậm chí có sới còn tồn tại vài năm trời với qui mô ngày một lớn.	Điều đáng ngạc nhiên là sự tồn tại của các sới gà cờ bạc thứ thiệt này ngày một tinh vi, thậm chí có sới còn tồn tại vài năm trời với qui mô ngày một lớn và ngày càng mở rộng.	0.9730528	Tin Tức
+21	Trong hơn 100 thợ lặn, chiếm quá nửa tổng số thanh niên trai tráng của làng Xuân Hòa, xã Thạch Bằng ( Hà Tĩnh ) có đến 40 người lặn có “ bằng ”.	Trong hơn gần 100 thợ lặn, chiếm quá nửa tổng số thanh niên trai tráng của làng Xuân Hòa, xã Thạch Bằng ( Hà Tĩnh ) có đến gần 60 người lặn chưa có “ bằng ”.	0.9887579	Tin Tức
+22	Họ tự hào “con trai Xuân Hòa đẻ ra là biết lặn, biết bơi ”.	Tự hào hơn khi họ kể chuyện ông Thú Đỉnh - sư phụ nghề lặn của làng - từng lặn bộ dưới biển cửa Sót sâu hàng chục mét để tháo cái chân vịt của tàu chiến Pháp đem về làm kỷ niệm hồi năm 1953.	0.75372046	Đời Sống
+23	Nhiệm vụ quan trọng nhất của chú là không để thuyền người khác đi qua vùng lặn kéo theo những dây nhựa đang nổi bồng bềnh trên mặt biển đang nối liền với miệng của thợ lặn để cung cấp khí thở; gỡ các dây khi sóng biển làm rối vào nhau và đổ nước mát cho các máy trên thuyền đủ sức chạy trong nhiều giờ liền.	Nhiệm vụ quan trọng nhất của chú là không để thuyền người khác đi qua vùng lặn kéo theo những dây nhựa đang nổi bồng bềnh trên mặt biển đang nối liền với miệng của thợ lặn để cung cấp khí thở.	0.9708861	Đời Sống
+24	Là một thợ lặn trẻ biết hết mọi chuyện mưu sinh dưới biển, Hải kể : “ Dưới đáy biển, thợ lặn phải dùng một cái dùi bằng sắt hoặc con dao nhọn để cạy những con ngao, con sò bám rất chắc vào hang đá.	Nơi không có bãi đá, thợ phải có đôi mắt thật tinh để có thể phát hiện những “ mánh ” của con hàng.	0.83881736	Đời Sống
+25	Bước nhảy từ lặn bộ sang lặn máy đã giúp những hội thợ lặn làng Xuân Hòa có điều kiện chinh phục những vùng biển xa, rộng lớn hơn.	Từ lặn bộ sang lặn máy đã giúp những hội thợ lặn làng Xuân Hòa có điều kiện chinh phục những vùng biển xa, rộng lớn hơn, đánh bắt được nhiều cá hơn.	0.97032356	Đời Sống
+26	Sáng sớm 22-10-2003, những thủy thủ bị nạn của tàu Hoàng Đạt 35 đã được tàu Capability (Liberia) đưa về tới Nha Trang.	Tai ương đã ập đến với con tàu Hoàng Đạt 35 vào lúc gần 3 giờ sáng 21-10-2003 tại vùng biển Trường Sa VN, cách vịnh Cam Ranh chừng hơn 100 hải lý.	0.8315209	Tin Tức
+27	Nguyễn Khắc Trường (27 tuổi), thủy thủ, một trong hai trường hợp bị mất tích nhưng may mắn trở thành người sau cùng được vớt lên.	Trường cho biết: “ Tôi là người phải chịu ở dưới nước lâu nhất, kinh hãi lắm ... ” - vừa nói, Trường vừa lắc đầu rùng mình...	0.7387996	Đời Sống
+28	Con tàu càng nghiêng rất nhanh, khi độ nghiêng đến lên hơn 20 – 25 độ, tôi biết tình thế không còn cách nào có thể cứu được tàu nữa, khi ấy chỉ còn nghĩ đến cách phải cứu cho được thủy thủ.	Con tàu càng nghiêng rất nhanh, khi độ nghiêng đến lên hơn 20 – 25 độ, tôi biết tình thế không còn cách nào có thể cứu được tàu nữa, khi ấy chỉ còn nghĩ đến cách phải cứu cho được thủy thủ, để thoát khỏi tai nạn lần này.	0.98955834	Tin Tức
+29	Nguyễn Đình Hùng, thủy thủ 22 tuổi, cho biết: “ Tôi là người thuộc tốp đầu tiên bám được vào thang dây của tàu cứu hộ ”.	Vừa bám giữ cho được theo sợi dây người ta thả xuống từ trên tàu, vừa lượn người để giảm sức va đập do sóng đánh dập mình vào thành tàu, đồng thời phải gắng sức bám cho được vào thang dây.	0.815192	Tin Tức
+30	Chiều hôm qua tại nhà tang lễ Bệnh viện tỉnh Khánh Hòa, cùng với công ty chủ tàu, những người may mắn thoát nạn đã tiễn đưa hai đồng đội xấu số của mình (anh Vũ Ngọc Bình và anh Đào Xuân Nhung – sinh năm 1944, sĩ quan boong tàu) về quê nhà.	Chiều này hôm đấy tại nhà tang lễ Bệnh viện tỉnh Khánh Hòa, cùng với công ty chủ tàu, những người may mắn thoát nạn đã tiễn đưa hai đồng đội xấu số của mình về quê nhà.	0.9604913	Tin Tức
+31	Vượt qua những con đường do lũ lụt tàn phá với những ổ trâu, ổ voi lầy lội có nơi phải nhờ đến xe ủi xe xúc mở đường phía trước và những ngầm đá vùng cao gập ghềnh, liên tiếp trong hai ngày 22 và 23 - 10 đoàn công tác xã hội báo Tuổi Trẻ đã mang những món quà sẻ chia của bạn đọc đến tận những vùng lũ Bình Minh, Bình Chương và Nam Trà My - những vùng đất khó nghèo của Quảng Ngãi, Quảng Nam.	Vượt qua những con đường do lũ lụt tàn phá với những ổ trâu, ổ voi lầy lội có nơi phải nhờ đến xe ủi, xe xúc mở đường phía trước và những ngầm đá vùng cao gập ghềnh, liên tiếp trong hai ngày 22 và 23 - 10 đoàn công tác xã hội báo.	0.9614411	Tin Tức
+32	Tất cả dựng lại những mái nhà xiêu vẹo, trên gương mặt mỗi người in sâu những lo âu về cái ăn trước mắt cũng như sự mưu sinh lâu dài sau mùa lũ.	Bà Võ Thị Lĩnh ( thôn Tân Phước, Bình Minh ) thở dài nói : “ Căn nhà tranh tui tích góp nhiều năm trời mới dựng được, đêm 17 rạng ngày 18 nước lũ dâng cao hơn cả thước, rồi gió ập đến cuốn hết, cả mấy cái nồi, chum gạo cũng trôi tuột ”.	0.77060014	Đời Sống
+33	Mỗi phần quà trị giá 100000 đồng gồm gạo, mì, đường ... 15g, đoàn công tác xã hội của báo Tuổi Trẻ đã về với bà con xã Bình Chương.	Trước đó, ngày 22 – 10, đoàn đã đến hai xã bị lũ nặng nề nhất của tỉnh Quảng Ngãi là Bình Minh và Bình Chương ( huyện Bình Sơn ) và trao 420 suất quà cho bà con nghèo bị trôi nhà cửa, mất mát tài sản.	0.8598809	Tin Tức
+34	Không biết đến bao giờ bà con vùng cao huyện Nam Trà My mới ổn định được cuộc sống sau thiệt hại lớn của cơn lũ này và đối phó làm sao với những con lũ sắp đến.	Không biết đến bao giờ bà con vùng cao huyện Nam Trà My mới ổn định được cuộc sống sau những mất mát mà cơn lũ vừa qua ập đến.	0.93586767	Đời Sống
+35	Có bốn đại lý tiêu thụ chó, hình thành một chợ chó nằm trên quốc lộ 1A thuộc xã Điện Phương, huyện Điện Bàn, tỉnh Quảng Nam.	Có nhiều đại lý tiêu thụ chó hình thành ở đây, và đây cũng là một trong những vấn đề người dân phản đối việc tiêu thụ chó.	0.78268456	Đời Sống
+36	Theo ông Phạm Yên, người có thâm niên trên 20 năm đi đổi chó ở xã Điện Minh người ta không gọi là đi “ mua chó  ” mà gọi “ đổi chó  ” mặc dù là bán lấy tiền bởi lẽ người ta nuôi chó là để giữ nhà, không dùng từ mua – bán.	Theo ông Phạm Yên, người có thâm niên trên 20 năm đi đổi chó ở xã Điện Minh người ta không gọi là đi “ mua chó  ” mà gọi “ đổi chó  ”.	0.9465281	Đời Sống
+37	Bữa ăn “ sang trọng ” cuối cùng mà ông chủ Phạm Tuấn dành cho chú Vàng yêu quí gồm : cơm, cá, thịt heo ... để tiễn “ người bạn tri âm ” 10 năm chung sống.	Bữa ăn chưa kết thúc, chiếc kẹp sắt dài 1 m từ bàn tay của Bùi A nhanh như chớp thò ra kẹp cổ chú Vàng bỏ vào rọ sắt, kết thúc một thương vụ.	0.8255146	Đời Sống
+38	Phiên chợ bắt đầu từ 12 g – 18 g trong ngày, thời điểm sôi động nhất vào khoảng 16 g – 17 g, bởi đây là lúc các lái buôn tập trung về chợ sau một ngày đi thu mua chó.	Giá chó lên hay xuống là do sự thống nhất của bốn người mua tại đây.	0.7217181	Đời Sống
+39	Trong khi đó có những người lặng lẽ lội ì oạp từ miệng cống này sang miệng cống khác vét từng mảng bùn đen, lật từng nắp cống cho nước thoát nhanh.	Trong khi đó có những người lặng lẽ lội ì oạp từ miệng cống này sang miệng cống khác vét từng mảng bùn đen, lật từng nắp cống cho nước thoát nhanh, để tránh cho việc ngập lụt ở các con đường.	0.97488046	Đời Sống
+40	Trong thời gian mà trên lịch của những người làm ngành thoát nước ghi đậm “ đỉnh triều ”, ngày nào cũng có mấy người dân vào ngay văn phòng Xí nghiệp Thoát nước số 3 ( Bình Thạnh ) để mắng vốn.	Trong thời gian trên lịch của những người làm ngành thoát nước ghi đậm “ đỉnh triều ”, hôm nào cũng có dân vào phản án với Xí nghiệp.	0.94041455	Đời Sống
+41	Người Công Nhân cúi xuống, cầm cái ky vét hầm, chui hẳn vào lòng ống cống để nạo, chuyển lên trên từng xẻng bùn, người ở trên kéo lên, đổ vào thùng.	Lưng mỏi, chân tê, anh ở dưới leo lên, anh ở trên leo xuống thay chỗ.	0.81388396	Đời Sống
+42	Chợt nhớ lúc sáng, khi nghe một anh Công Nhân vừa chui dưới hầm ga lên phân trần với chủ tịch công đoàn : “ Hồi này sức khỏe kém quá, nhiều lúc xuống hầm thở không nổi, tôi định xin chuyển từ khâu chui sang vét mà lại tiếc, mất quyền lợi.	Khi nghe một anh Công Nhân vừa chui dưới hầm ga lên phân trần với chủ tịch công đoàn : “ Hồi này sức khỏe kém quá, nhiều lúc xuống hầm thở không nổi, tôi định xin chuyển từ khâu chui sang vét mà lại tiếc, mất quyền lợi.	0.9933592	Đời Sống
+43	Các anh CN Xí nghiệp hai đang thi công công trình thay mới và sửa chữa cống vòm ở đường Pasteur thì bảo : “ Ngành thoát nước ngày càng tiến bộ, hiện đại hơn thì cho con cái chúng tôi theo nghề cũng tốt chứ ”.	Các anh CN Xí nghiệp hai đang thi công công trình thay mới và sửa chữa cống vòm ở đường Pasteur thì bảo : “ Ngành thoát nước ngày càng tiến bộ, hiện đại hơn thì cho con cái chúng tôi theo nghề cũng tốt chứ ”.	0.99999976	Tin Tức
+44	Tôi gặp ông Lê Văn On ( Tám On ) ngụ ở ấp Tiên Long 1, xã Tiên Long, huyện Châu Thành, Bến Tre là người bỏ nhiều công, của cất gần 600 căn nhà tình thương cho người nghèo.	Tôi gặp ông Lê Văn On là người bỏ nhiều công, của cất gần 600 căn nhà tình thương cho người nghèo.	0.9163127	Tin Tức
+45	Từng sống trong căn nhà lá cột gòn và lao động kiếm sống, ông Tám On rất thấu hiểu cảnh thiếu khó của người nghèo neo đơn không nơi nương tựa.	Năm 31 tuổi, khi gia đình bắt đầu có của ăn của để, ông đã nghĩ đến việc giúp những gia đình nghèo sống trong cảnh nhà dột cột xiêu bằng cách cất cho họ căn nhà che nắng che mưa.	0.8668805	Tin Tức
+46	Sau đó, được những người trong làng đi làm ăn, buôn bán trong và ngoài tỉnh như Tiền Giang, Đồng Tháp, Trà Vinh ... giới thiệu, ông Tám On tìm hiểu và sẵn lòng giúp nhà cho những người nghèo thật sự biết lo làm ăn.	Sau đó, được những người trong làng đi làm ăn, buôn bán trong và ngoài tỉnh như Tiền Giang, Đồng Tháp, Trà Vinh ... giới thiệu, ông Tám On tìm hiểu và sẵn lòng giúp nhà cho những người nghèo thật sự biết lo làm ăn, càng ngày càng giúp đỡ được nhiều người khó khăn hơn.	0.98840594	Tin Tức
+47	Phước “ mù ” là một người hiếu thảo, cặm cụi làm ăn, vừa bán vé số nuôi bà ngoại vừa để dành tiền mua được nền nhà.	Ông giúp Phước “ mù ” tận tình, không chỉ giúp nhà mà còn mua thêm ít gỗ để đóng cho cái giường, cái bàn, cái ghế.	0.8572525	Tin Tức
+48	Người nghèo khi nhận nhà đều cảm ơn, ông khuyên họ : “ Hãy cố gắng làm ăn, chăm lo gia đình hạnh phúc là đáp ơn tôi rồi ”.	Nhà ông cho người nghèo cũng chẳng phải sang trọng gì, thường là nhà kê bằng thân cây dừa lão xẻ ra làm sườn.	0.8046252	Tin Tức
+49	Nghe ở đâu có người nghèo cần giúp làm nhà, công trình công cộng thiếu kinh phí, thiếu công thợ, dù xa xôi tận An Hiệp, Thành Triệu, Quới Thành ( huyện Châu Thành ), Thạnh Ngãi ( huyện Mỏ Cày ) hay Mỹ Thạnh An ( thị xã Bến Tre ), Chợ Gạo ( Tiền Giang )  . . . các ông vẫn khăn gói lên đường làm giúp mà không tính toán điều gì.	Ông Tám On và bạn bè không chỉ lo việc thiện, việc nghĩa, làm cầu, sửa đường, cất nhà tình thương trong xã.	0.8268589	Tin Tức
+50	Mỗi ngày, hàng ngàn con chim trời bỗng chốc bị hóa kiếp trở thành những con chim quay béo ngậy trên bàn nhậu, thành món ăn rất dân dã trong mỗi bữa ăn của người dân đảo Cát Bà ( Cát Hải, Hải Phòng ).	Hàng ngàn con chim trời bỗng chốc bị hóa kiếp trở thành những con chim quay béo ngậy trên bàn nhậu, thành món ăn rất dân dã trong mỗi bữa ăn của người dân đảo Cát Bà .	0.9701566	Tin Tức
+51	Như thấy thiếu điều gì, ông lại chạy vào bụi cây lấy ra trên chục ống bơ sữa bò, bên trong ống bơ đó là một hòn đá được buộc lủng lẳng bằng sợi dây chỉ.	Như thấy điều gì lạ, ông lại chạy vào bụi cây lấy ra trên chục ống bơ sữa bò, bên trong ống bơ đó là một hòn đá được buộc lủng lẳng bằng sợi dây chỉ.	0.98683727	Đời Sống
+52	Không biết có phải “ chim mỏi về rừng tìm chốn ngủ ” hay vì những điều kiện lý tưởng của Cát Bà mà cứ dịp cuối năm, mỗi ngày có hàng ngàn, hàng vạn con chim cuốc, le le, gà đồng . . . kéo nhau về đây tìm chốn ngủ.	Không biết có phải “ chim mỏi về rừng tìm chốn ngủ ” hay vì những điều kiện lý tưởng của Cát Bà mà cứ dịp cuối năm, mỗi ngày có hàng ngàn, hàng vạn con chim cuốc, le le, gà đồng . . . kéo nhau về đây tìm chốn ngủ.	0.99999994	Đời Sống
+53	Nếu bạn thường xuyên tắt báo thức và cảm thấy ủ rũ vào buổi sáng, hãy tìm cách thay đổi để có một buổi sáng tràn đầy năng lượng. Bắt đầu bằng việc tìm ra những lý do khác nhau khiến bạn không thể thức dậy vào buổi sáng và phải làm gì với chúng để tỉnh táo sau khi ngủ dậy sớm.	Nếu bạn thường xuyên tập thể dục buổi sáng, ăn uống điều độ, thay đổi chế độ ăn uống, giấc ngủ để cải thiện sức khỏe.	0.7862433	Sức Khỏe
+54	Suy nghĩ tích cực không chỉ liên quan đến việc bỏ qua những tình huống khiến bạn cảm thấy khó chịu hoặc khó khăn trong cuộc sống. Nó có nghĩa là bạn đón nhận sự khó chịu với một thái độ tích cực hơn. Có nghĩa là hành động một cách lạc quan ngay cả khi gặp phải tình huống có thể khiến bạn bi quan. ‌	Bạn phải bắt đầu bằng cách quan sát đoạn độc thoại nội tâm của mình hoặc cách bạn nói chuyện với chính mình. Bạn có thể nói chuyện với bản thân một cách tích cực hoặc tiêu cực. Một số điều bạn nói với bản thân có vẻ tích cực trong khi một số có thể bị truyền cảm xúc tiêu cực.	0.88103193	Sức Khỏe
+55	Cười nhiều hơn: Nói chung, việc có khiếu hài hước trong cuộc sống hàng ngày có thể cải thiện đáng kể cảm giác tích cực. Khi bạn cười, bạn cảm thấy ít căng thẳng hơn và khi bạn cảm thấy ít căng thẳng hơn, bạn có nhiều khả năng nhìn cuộc sống qua lăng kính tích cực hơn.	Nói chung, việc có khiếu hài hước trong cuộc sống hàng ngày có thể cải thiện đáng kể cảm giác tích cực. Khi bạn cười, bạn cảm thấy ít căng thẳng hơn và khi bạn cảm thấy ít căng thẳng hơn, bạn có nhiều khả năng nhìn cuộc sống qua lăng kính tích cực hơn.	0.99572814	Sức Khỏe
+56	Nguyên nhân chính gây ô nhiễm không khí (đốt nhiên liệu hóa thạch) cũng là tác nhân chính gây ra biến đổi khí hậu, ảnh hưởng đến sức khỏe của người dân theo nhiều cách khác nhau. Từ năm 2030 đến 2050, biến đổi khí hậu dự kiến sẽ gây ra thêm 250.000 ca tử vong mỗi năm, do suy dinh dưỡng, sốt rét, tiêu chảy và stress nhiệt.	Ô nhiễm không khí là tác nhân chính gây ra biến đổi khí hậu, ảnh hưởng đến sức khỏe của người dân theo nhiều cách khác nhau. Từ năm 2030 đến 2050, biến đổi khí hậu dự kiến sẽ gây ra thêm 250.000 ca tử vong mỗi năm, do suy dinh dưỡng, sốt rét, tiêu chảy và stress nhiệt.	0.97380066	Môi Trường
+57	Các bệnh không lây nhiễm, như bệnh tiểu đường, ung thư và bệnh tim mạch là nguyên nhân chính cho hơn 70% tổng số ca tử vong trên toàn thế giới, tương đương 41 triệu người. Trong đó, bao gồm 15 triệu người chết sớm ở độ tuổi tuổi từ 30 đến 69.	Hơn 85% số ca tử vong sớm này là ở các nước thu nhập thấp và trung bình. Sự gia tăng của các bệnh này đã được thúc đẩy bởi 5 yếu tố nguy cơ chính: sử dụng thuốc lá, không hoạt động thể chất, uống nhiều rượu bia, chế độ ăn uống không lành mạnh và ô nhiễm không khí. Các yếu tố nguy cơ này cũng làm trầm trọng thêm các vấn đề về sức khỏe tâm thần, có thể bắt đầu từ khi còn nhỏ: một nửa số bệnh tâm thần bắt đầu từ năm 14 tuổi, nhưng hầu hết các trường hợp không được phát hiện và không được điều trị, tự tử là nguyên nhân hàng đầu thứ hai gây tử vong trong độ tuổi từ 15 đến 19 tuổi.	0.91797584	Sức Khỏe
+58	Năm 2018, Cộng hòa Dân chủ Congo đã trải qua 2 đợt dịch Ebola riêng biệt, cả 2 đều lan sang các thành phố với hơn 1 triệu người mắc. Điều này cho thấy bối cảnh dịch bệnh gây bệnh có nguy cơ cao như Ebola bùng phát là rất nghiêm trọng - những gì đã xảy ra trong các vụ dịch ở nông thôn trong quá khứ không phải lúc nào cũng áp dụng cho các khu vực đô thị đông dân hoặc các khu vực bị ảnh hưởng bởi xung đột.	Cộng hòa Dân chủ Congo đã trải qua 2 đợt dịch, cả 2 đều lan sang các thành phố với hơn 1 triệu người mắc. Điều này cho thấy bối cảnh dịch bệnh gây bệnh có nguy cơ cao như Ebola bùng phát là rất nghiêm trọng.	0.9574263	Tin Tức
+59	Chăm sóc sức khỏe ban đầu có thể đáp ứng phần lớn nhu cầu sức khỏe của một người trong suốt cuộc đời của họ. Hệ thống y tế với chăm sóc sức khỏe ban đầu mạnh mẽ là cần thiết để đạt được bao phủ chăm sóc sức khoẻ toàn dân.	Chăm sóc sức khỏe ban đầu có thể đáp ứng phần lớn nhu cầu sức khỏe của một người trong suốt cuộc đời của họ. Hệ thống y tế với chăm sóc sức khỏe ban đầu mạnh mẽ là cần thiết để đạt được bao phủ chăm sóc sức khoẻ toàn dân. Giúp cải thiện sức khỏe hơn và phòng tránh nhiễm biến chứng có thể xảy ra.	0.9807687	Sức Khỏe
+60	Truyện ngắn Đôi mắt là truyện ngắn thành công nhất của Nam Cao sau Cách mạng Tháng 8. Trong truyện, thông qua việc xây dựng hình tượng hai nhà văn: Hoàng và Độ với hai lối sống, hai sự nhìn nhận về người nông dân, về kháng chiến trái ngược nhau, Nam Cao đã khái quát lên một vấn đề có ý nghĩa sâu sắc, không chỉ có ý nghĩa với tình hình thực tế lúc đó mà còn có ý nghĩa trong thời điểm hiện tại – vấn đề “cách nhìn cuộc sống”.	Đôi mắt, thông qua nghệ thuật miêu tả chi tiết ngoại hình, cử chỉ, lời nói của nhân vật, Hoàng và Độ đã hiện ra khá sinh động. Hoàng với cái nhìn phiến diện, một chiều, chỉ nhìn thấy những xấu xa của người nông dân và thấy cuộc sống “chua chát”.	0.9134162	Văn Học
+61	Không biết có phải “ chim mỏi về rừng tìm chốn ngủ ” hay vì những điều kiện lý tưởng của Cát Bà mà cứ dịp cuối năm, mỗi ngày có hàng ngàn, hàng vạn con chim cuốc, le le, gà đồng ... kéo nhau về đây tìm chốn ngủ.	Vì “ chim mỏi về rừng tìm chốn ngủ ” hoặc vì những điều kiện lý tưởng của Cát Bà mà cứ dịp cuối năm, mỗi ngày có hàng ngàn, hàng vạn con chim cuốc, le le, gà đồng ... kéo nhau về đây tìm chốn ngủ.	0.99250925	Tin Tức
+62	Có gì cũng được trừ có bệnh, không có gì cũng được trừ không có tiền, thiếu gì cũng được trừ thiếu sức khỏe. Sức khỏe không phải là tất cả nhưng không có sức khỏe sẽ chẳng có thứ gì!	Hạnh phúc của đời người không nằm ở danh lợi mà xuất phát từ sức khỏe, cơ thể khỏe mạnh không quyết định bởi tiền bạc mà quyết định bởi sự vận động của mỗi con người!	0.80542636	Sức Khỏe
+63	Sức khỏe không phải là thứ chúng ta có thể mua. Tuy nhiên, nó có thể là một tài khoản tiết kiệm cực kỳ giá trị.	Sức khỏe tốt và trí tuệ minh mẫn là hai điều hạnh phúc nhất của cuộc đời.	0.7645366	Sức Khỏe
+64	Sức khỏe chính là một trong những tài sản vô giá của con người mà mỗi chúng nên biết trân trọng và giữ gìn.	Tôi tin rằng món quà lớn nhất mà bạn có thể trao cho gia đình mình và thế giới là chính mình khỏe khoắn.	0.85541064	Sức Khỏe
+65	Người có sức khỏe thì có cả trăm ngàn ước mơ, người không có sức khỏe thì chỉ có một ước mơ duy nhất là sức khỏe.	Sức khỏe là trạng thái hài hòa hoàn toàn của cơ thể, trí óc và tinh thần. Khi một người thoát khỏi những khuyết tật về thể chất và những phiền nhiễu về tinh thần, thì cánh cổng tâm hồn sẽ mở ra.	0.7467226	Sức Khỏe
+66	Bạn có thể khẳng định sức khỏe trong suy nghĩ, nhưng nếu bạn trao cho suy nghĩ ấy sự lo âu, nỗi sợ hãi và bất hòa, suy nghĩ của bạn sẽ tạo ra sự bất hòa. Thứ quyết định kết quả là điều mà ta trao cho suy nghĩ của mình chứ không phải là điều mà ta khẳng định trong suy nghĩ.	Hãy dành tất cả buổi chiều cho tập luyện và nghỉ ngơi, thứ cũng cần thiết như đọc sách. Tôi sẽ nói việc đó còn cần thiết hơn, bởi sức khỏe đáng giá hơn học tập.	0.82786566	Sức Khỏe
+67	Tiền bạc, con cái, quyền lực chỉ là nhất thời, vinh quang là của quá khứ, còn sức khỏe sẽ mãi là của bạn.	Để có sức khỏe tốt: hãy ăn nhẹ, thở sâu, sống có chừng mực, nuôi dưỡng niềm vui và gìn giữ những mối quan tâm trong cuộc sống.	0.8040582	Sức Khỏe
+68	Sức khỏe không phải là thứ chúng ta có thể mua. Tuy nhiên, nó có thể là một tài khoản tiết kiệm cực kỳ giá trị.	Sức khỏe là thứ mà ta không nhìn thấy được, là yếu tố sống còn của mỗi con người. Hãy nâng niu quý trọng sức khỏe, đừng để khi mất rồi mới thấy hối tiếc.	0.83761734	Sức Khỏe
+69	Sức khỏe tốt và trí tuệ minh mẫn là hai điều hạnh phúc nhất của cuộc đời.	Sức khỏe chính là sự giàu có, hãy lắng nghe để hiểu những điều cơ thể đang cố nói với bạn.	0.81242377	Sức Khỏe
+70	Sau cơn mưa dông chiều, phần còn lại của cây cô đơn Hồ Tây đã gẫy nốt. 	Căn nhà của ông bà là căn nhà cấp bốn mộc mạc mà thân thương. Nhiều năm qua đi, căn nhà không chỉ là nơi che nắng, che mưa mà nó còn là cả một tuổi thơ của em.	0.7006057	Tin Tức
+71	Nhà thì bán bị người ta đuổi đi và đang tá túc tạm tại nhà bà nội. Mẹ bạn ấy đang đi bán cơm thuê cho người ta, Trúc Anh là trụ cột chính nhưng đang bệnh cũng không đi làm được.	Mẹ em là một người rất chu đáo nên gian bếp nhỏ luôn được chăm sóc cẩn thận.	0.7208699	Tin Tức
+72	Một giấc ngủ ngon, hoặc mười phút nói xả, hoặc một ly kem sô cô la hoặc cả ba thứ đó là liều thuốc tốt.	Sự sống là thứ không khi nào cảm thấy chán nản.	0.65063757	Sức Khỏe
+73	Mỉm cười là cách tốt nhất để đối mặt với mọi vấn đề. Để đè bẹp mọi nỗi sợ hãi và khoả lấp mọi nỗi đau.	Bạn nên tin rằng món quà quý giá nhất mà bạn có thể tặng cho gia đình bạn và cả thế giới này đó chính là sức khỏe của bản thân bạn.	0.76653874	Sức Khỏe
+74	Bớt lo, bớt sầu, đừng phiền, đừng não là một cách làm cho tâm ta bớt được nhiều bệnh.	Liều thuốc tốt nhất cho cơ thể là một tâm hồn tĩnh lặng.	0.74105424	Sức Khỏe
+75	Người ta có thể sống lâu gấp đôi nếu không bỏ nửa đầu của cuộc đời để hình thành những thói quen sẽ rút ngắn nửa đời còn lại. 	Ngoài kiến thức, bạn cần sức khỏe tốt và để có được nó bạn cần chơi thể thao.	0.6300533	Sức Khỏe
+76	Hạnh phúc cũng như sức khỏe, khi người ta không để ý đến nó tức là đang có nó ở đó.	Cơ thể yếu đuối khiến tinh thần trở nên yếu ớt.	0.6794164	Sức Khỏe
+77	Bạn có yêu đời không? Vậy đừng phung phí thời gian vì chất liệu cuộc sống được làm bằng thời gian.	Một nửa sức khỏe của con người là trong tâm lý.	0.7540039	Sức Khỏe
+78	Người kiếm cớ, vin vào những lý do không có thời gian rèn luyện cơ thể sớm muộn sẽ phải bỏ thời gian ra để đi chữa bệnh!	Tiền bạc, con cái, quyền lực chỉ là nhất thời, vinh quang là của quá khứ, còn sức khỏe sẽ mãi là của bạn.	0.7724761	Sức Khỏe
+79	Bạn có yêu đời không? Vậy đừng phung phí thời gian vì chất liệu cuộc sống được làm bằng thời gian.	Sự sống không bao giờ chán nản.	0.72743106	Sức Khỏe
+80	Hãy chăm sóc bản thân. Đó là nơi duy nhất bạn có để sống.	Hãy chăm sóc bản thân. Đó là nơi duy nhất bạn có để sống. Hãy tập thể dục hàng ngày.	0.95957977	Sức Khỏe
+81	Giấc ngủ là sợi xích vàng nối giữa sức khỏe và cơ thể chúng ta.	Cái bệnh nặng nhất của đời sống, ấy là sự buồn nản.	0.67991865	Sức Khỏe
+82	Tại một hội thảo mới được cơ quan đại diện Liên Hiệp Quốc tại VN và Ban Tư tưởng văn hóa trung ương tổ chức tại Đà Nẵng bàn về tuyên truyền phòng chống lây nhiễm HIV, các cơ quan chức năng đã thừa nhận ngày đầu tiên việc tuyên truyền về HIV đã bị gắn với hình ảnh của tệ nạn xã hội là rất sai lầm.	Tại hội thảo mới được cơ quan đại diện Liên Hiệp Quốc tại VN và Ban Tư tưởng văn hóa trung ương tổ chức tại Đà Nẵng bàn về tuyên truyền phòng chống lây nhiễm HIV.	0.95755494	Tin Tức
+83	Đến giờ đã 20 năm trôi qua kể từ khi người ta phát hiện virus HIV, cộng đồng vẫn cứ định kiến HIV ở đâu đó trong cái góc khuất của mại dâm và ma túy.	Trên các sân khấu thông tin cổ động bây giờ, HIV vẫn còn được nhìn bằng hình ảnh áo choàng đen tử thần với cái lưỡi hái đi cùng với mại dâm và ống kim chích.	0.7500668	Tin Tức
+84	Hàng bánh mì của vợ anh chỉ nhận được những câu nói của bà con xung quanh như : “ Thôi để cho chị 2000 đồng chứ thật tình không dám ăn bánh của chị ”.	Cả nhà anh trông vào đồng lương trợ cấp người mất sức lao động 330000 đồng / tháng, nuôi một em gái bị tâm thần, hai đứa con và đứa cháu nhỏ đã 18 tháng tuổi.	0.73408765	Tin Tức
+85	Bác sĩ Trần Văn Nhật, giám đốc Trung tâm Y học dự phòng, kể thêm Trung tâm Tư vấn phòng chống HIV / AIDS của thành phố đã về Hòa Châu, nơi gia đình anh Diên đang sống, tổ chức hai đêm nói chuyện về sự lây truyền của HIV và cách phòng tránh.	Bác sĩ nói cả về chuyện nhà anh Diên đang nuôi thằng cháu mà bố mẹ nó đã chết vì AIDS, nhưng đến nay đã qua nhiều lần xét nghiệm và vẫn tiếp tục theo dõi chặt nhưng chưa có kết luận cháu bé 24 tháng tuổi này cũng nhiễm HIV.	0.8304252	Tin Tức
+86	Chuyện HIV lây nhiễm theo ba đường nào bây giờ dân xã Hòa Châu ai cũng biết, nhưng người ta vẫn ơn ớn và vẫn cứ tránh không tiếp xúc với bất cứ ai trong gia đình này.	HIV là bệnh truyền nhiễm chỉ lây nhiễm theo ba đường nào bây giờ dân xã Hòa Châu ai cũng biết, nhưng người ta vẫn ơn ớn và vẫn cứ tránh không tiếp xúc với bất cứ ai trong gia đình này.	0.98858887	Tin Tức
+87	“ Sự phân biệt đối xử với người nhiễm HIV đã đẩy cộng đồng lâm vào cuộc chiến với kẻ thù giấu mặt - thạc sĩ Chu Quốc Ân kết luận - Việc bây giờ phải làm là tuyên truyền để cộng đồng hiểu đúng về đại dịch HIV chứ đừng kỳ thị và chạy trốn ”.	“ Sự phân biệt đối xử với người nhiễm HIV đã đẩy cộng đồng lâm vào cuộc chiến với kẻ thù giấu mặt - thạc sĩ Chu Quốc Ân kết luận - Việc bây giờ phải làm là tuyên truyền để cộng đồng hiểu đúng về đại dịch HIV chứ đừng kỳ thị và chạy trốn ”.	1.0	Tin Tức
+88	Động vật rừng quí hiếm vẫn được âm thầm đưa về thành phố với nhiều phương thức, thủ đoạn tinh vi mà lực lượng chức năng không thể kiểm soát hết.	Ngày càng nhiều thủ đoạn tinh vi để săn bắt động vật quý hiếm để lọt qua các tai mắt của lực lượng kiểm soát.	0.8772289	Tin Tức
+89	Hương Rừng xuất hiện ở nhiều nơi từ nội thành  ra ngoại thành nhưng ấn tượng nhất có lẽ là Hương Rừng 2 ở góc đường Hai Bà Trưng - Nguyễn Đình Chiểu, quận 1 ( còn một quán Hương Rừng khác nằm trên đường Nguyễn Trãi , quận 1 cũng nổi tiếng bán hàng độc  ).	Người ta ước tính chỉ riêng ở Hương Rừng này, mỗi ngày có hàng trăm con thú bị thọc huyết.	0.77647644	Tin Tức
+90	Chủ quán đưa ra một thực đơn gồm các món cá của miền Tây nhưng lại giới thiệu : “ Có chồn, nhím, heo rừng, cúi rừng ... các anh có nhậu không? ”.	Chủ quán tươi cười giải thích : “ Đang có chiến dịch nên không dám ghi trong thực đơn ... ”.	0.789158	Tin Tức
+91	Bà “ bật mí ” : có loại mua về từ đường Campuchia, có loại từ rừng Bình Phước.	Thú từ Campuchia về trông “ đừ  ” lắm, ăn không ngon bằng từ rừng Bình Phước.	0.8413828	Tin Tức
+92	Ông Vũ Đình Trúc, trưởng phòng pháp chế Chi cục Kiểm lâm Bình Phước, cho biết ngành kiểm lâm tỉnh đã kiểm tra những điểm buôn bán động vật hoang dã nhưng không thể kiểm soát hết được.	Trưởng phòng pháp chế Chi cục Kiểm lâm Bình Phước, cho biết ngành kiểm lâm tỉnh đã kiểm tra những điểm buôn bán động vật hoang dã nhưng không thể kiểm soát hết được và còn nhiều sai phạm.	0.9682217	Tin Tức
+93	Ngay tại cửa hầm, chen lẫn trong bóng áo xanh của những người thợ làm hầm Sông Đà đang tất bật chuẩn bị cho buổi lễ thông hầm trọng đại là những người dân từ Đà Nẵng lên đang nói cười vui vẻ và háo hức nhìn ngắm đường hầm.	Tại cuối hầm, chen lẫn trong bóng áo xanh của những người thợ làm hầm Sông Đà đang tất bật chuẩn bị cho buổi lễ thông hầm trọng đại là những người dân từ Đà Nẵng lên đang nói cười vui vẻ và háo hức nhìn ngắm đường hầm.	0.99804986	Tin Tức
+94	Anh Hoàng Sĩ Hải, phó giám đốc liên danh Đông Ah -  Sông Đà phụ trách việc thi công tại công trình đường hầm phía nam, nói vui : “ Từ nửa tháng nay, ngày nào cũng có hàng chục người dân Đà Nẵng và các tài xế lái xe đường dài đến năn nỉ xin được vào tham quan bên trong, nhưng vì an toàn lao động nên chúng tôi không thể đồng ý ”.	Phó giám đốc liên danh Đông Ah -  Sông Đà phụ trách việc thi công tại công trình đường hầm phía nam, nói rằng : “ Từ nửa tháng nay, ngày nào cũng có hàng chục người dân Đà Nẵng và các tài xế lái xe đường dài đến năn nỉ xin được vào tham quan bên trong, nhưng vì an toàn lao động nên chúng tôi không thể đồng ý ”.	0.990538	Tin Tức
+95	Khu du lịch Thác Mơ cũng vừa ra đời ở “ ốc đảo ” Hói Mít hẻo lánh dưới chân núi Răng Cưa.	Một khu resort khá đẹp khác nữa của khách sạn Công Đoàn đang xây dựng và một khu du lịch trên bán đảo đầm Lập An đang giai đoạn xúc tiến.	0.805326	Tin Tức
+96	Bất ngờ một hang động nằm im hàng ngàn năm trên dãy núi đá vôi thuộc xã Vĩnh An, huyện Vĩnh Lộc ( Thanh Hóa ) được các bạn trẻ trong xã phát hiện.	Lập tức những thông tin về một hang động tầm cỡ quốc gia được lan truyền làm xôn xao cả cái làng quê nghèo vào bậc nhất huyện này.	0.74850065	Tin Tức
+97	Không ai bảo, nhưng mỗi người đều vốc một ngụm “ nước tiên ” uống hoặc ngửa mặt hứng những giọt nước để hưởng cái mát lạnh tuyệt dịu của thiên nhiên, và mọi người đều tận hưởng và hòa vào thiên nhiên.	Không ai bảo, nhưng mỗi người đều vốc một ngụm “ nước tiên ” uống hoặc ngửa mặt hứng những giọt nước để hưởng cái mát lạnh tuyệt dịu của thiên nhiên.	0.9709424	Tin Tức
+98	Toàn đã kể lại câu chuyện khá bất ngờ : Tháng 7 – 2003 Đoàn xã tổ chức cho anh em đi du lịch nhưng hiềm nỗi “ yếu ” tiền nên tôi bảo anh em đi đâu cho xa, nghe nói xã ta cũng có hang động hàng ngàn năm ngay trên núi Thung Vình, thử đi dã ngoại trên đó xem sao.	 Năm 2003 Đoàn xã tổ chức cho anh em đi du lịch nhưng hiềm nỗi “ yếu ” tiền nên tôi bảo anh em đi đâu cho xa, nghe nói xã ta cũng có hang động hàng ngàn năm ngay trên núi Thung Vình, thử đi dã ngoại trên đó xem sao.	0.98294675	Tin Tức
+99	Động Tiên Sơn chỉ ở cách thành nhà Hồ ( 1397 ) - di tích văn hóa đặc sắc của khu vực Đông Nam Á - khoảng 2 km;  cách khu tượng đá Đa Bút nổi tiếng với những pho tượng võ quan đứng canh ngôi mộ bà Hoàng Thị Ngọc Diễm ( vợ chúa Trịnh Tùng ).	Đây là địa bàn có hơn 100 quần thể di tích lịch sử - văn hóa của huyện “ di tích ” Vĩnh Lộc, nổi tiếng dày mật độ di tích nhất tỉnh Thanh.	0.8682425	Tin Tức
+100	Những hóa thạch càng cổ thì càng nằm sâu dưới các lớp đá.	Nhưng tất cả sẽ trở thành một bài học đau xót nếu ngay bây giờ chính quyền hai xã Vĩnh An, Vĩnh Minh không ra tay ngăn chặn những “ lò ”  khai thác đá đang ngày đêm thi nhau nổ mìn trên dãy Thung Vình vì một lý do đơn giản : tương truyền, hang động Tiên Sơn xuyên dài sang phía đầu dãy núi Thung Vình thuộc xã Vĩnh Minh ( ? ! ).	0.72880244	Khoa học
+101	Tân bị bắt sau cuộc gọi gây rối.	Tân bị bắt ở Hà Nội sau cuộc gọi gây rối.	0.94939566	Tin Tức
+102	Bản tin hàng đầu Châu Á lúc 2:30 pm.	Bản tin hàng đầu Châu Á 1:25 chiều.	0.9063768	Bản Tin
+103	Giá dầu tiếp tục tăng sau khi tăng ở châu Á.	Giá dầu tiếp tục tăng ở châu Á.	0.96277004	Thị Trường
+104	Quốc hội Nga cho phép Putin dùng quân sự ở Ukraine.	Tổng thống Obama cảnh báo Nga tránh xa Ukraine.	0.8217625	Tin Tức
+105	Pháp đe dọa Google phạt tiền về quyền riêng tư.	Google đe dọa cảnh cáo bạn về việc không tuân thủ quy tắc tòa án về vi phạm quyền riêng tư.	0.8887131	Tin Tức
+106	Apple đăng ký nhãn hiệu 'iWatch'.	Apple đăng ký nhãn hiệu 'iWatch' tại Nhật Bản.	0.9089692	Thị Trường
+107	Thủ tướng Ấn Độ Singh từ chức sau bầu cử 2014.	Thủ tướng Ấn Độ từ chức.	0.77647686	Tin Tức
+108	Summers từ bỏ cuộc đua giành chức vụ Fed.	Cổ phiếu nổi lên nhờ việc Summers rút khỏi cuộc đua vào Fed.	0.78055674	Tin Tức
+109	Người biểu tình Thái Lan xông vào trụ sở quân đội.	Người biểu tình Thái Lan xông vào trụ sở quân đội Hoàng gia ở Bangkok.	0.90946704	Xã Hội
+110	Tokyo giành chiến thắng trong cuộc đua đăng cai Thế vận hội Olympic 2020.	Tokyo đăng cai Thế vận hội Olympic 2020.	0.8611841	Tin Tức
+111	Số người chết vì bão ở Philippines có thể lên tới 7000.	Số người chết vì bão ở Philippines tăng lên trên 5000.	0.88774353	Tin Tức
+112	Quốc hội Ukraine bãi nhiệm tổng thống.	Quốc hội Ukraine bỏ phiếu bãi nhiệm tổng thống.	0.95504	Chính Trị
+113	Quân đội Thái Lan tuyên bố thiết quân luật.	Quân đội Thái Lan tuyên bố thiết quân luật, phủ nhận đảo chính.	0.8839351	Quân Sự
+114	Công việc phá dỡ bắt đầu tại Sân vận động Don Valley.	Công việc phá dỡ bắt đầu tại sân vận động.	0.9126483	Tin Tức
+115	Hai người chết sau khi máy bay Boeing 777 rơi xuống sân bay San Francisco.	Tai nạn máy bay hạ cánh xuống sân bay San Francisco.	0.8615187	Tin Tức
+116	Vụ nổ ở thành phố Peshawar của Pakistan làm 14 người chết.	Vụ nổ ở thành phố Quetta của Pakistan làm ít nhất 20 người chết.	0.9319058	Tin Tức
+117	Người phụ nữ tử vong khi đi tàu lượn siêu tốc ở Texas.	Người phụ nữ tử vong khi chơi tàu lượn siêu tốc ở công viên giải trí Texas.	0.8909557	Tin Tức
+118	Công nhân dầu mỏ người Scotland bị bắn chết ở Brazil.	Công nhân dầu mỏ người Anh bị giết ở Brazil.	0.9667898	Tin Tức
+119	Israel đồng ý ngừng bắn 12 giờ.	Israel đồng ý ngừng bắn 24 giờ ở Gaza.	0.89721274	Chính Trị
+120	Trận động đất 6,2 độ richter ngoài khơi đảo Sumatra của Indonesia - USGS.	Động đất 6,9 độ richter ngoài khơi đảo Indonesia.	0.8799636	Tin Tức
+121	Obama ra lệnh điều tra ' vụ tấn công khí độc ' ở Syria.	LHQ kêu gọi thanh tra vụ tấn công khí độc ở Syria.	0.9088818	Tin Tức
+122	Microsoft cho biết cắt giảm tới 18000 việc làm.	Microsoft sa thải 18000.	0.41551095	Tin Tức
+123	Dolce và Gabbana bị phạt trong vụ án thuế ở Ý.	Dolce và Gabbana bị kết án tù vì trốn thuế.	0.82528764	Kinh Tế
+124	Hàng chục người vẫn mất tích sau vụ cháy tàu Canada.	40 người vẫn mất tích trong vụ tai nạn tàu dầu chết người ở Canada.	0.913219	Tin Tức
+125	Lính NATO thiệt mạng trong cuộc tấn công ở Afghanistan.	Lính NATO thiệt mạng trong cuộc tấn công của Taliban ở Afghanistan.	0.97645736	Chiến Tranh
+126	Nổ nhà máy phân bón ở Texas.	Nổ chết người ở nhà máy phân bón Texas.	0.8996091	Tin Tức
+127	Động đất mạnh tấn công Chile, gây sóng thần.	Động đất mạnh tấn công Chile.	0.84814703	Tin Tức
+128	Napolitano đắc cử nhiệm kỳ hai với tư cách là tổng thống Ý.	Tổng thống Ý Napolitano đắc cử nhiệm kỳ hai.	0.91020656	Chính Trị
+129	Mỹ cáo buộc Nga điều xe tăng vào miền đông Ukraine.	Nga điều xe tăng tấn công Ukraine.	0.8801945	Chiến Tranh
+130	Putin thách thức Mỹ về tuyên bố Syria.	Putin yêu cầu Mỹ chứng minh Syria sử dụng vũ khí hóa học.	0.80785197	Chính Trị
+131	Triều Tiên trục xuất người Mỹ cao tuổi.	Triều Tiên trục xuất cựu chiến binh Mỹ bị giam giữ.	0.7869638	Chính Trị
+132	Taliban tấn công dinh tổng thống ở Afghanistan.	Tất cả các tay súng tấn công dinh tổng thống Afghanistan bị tiêu diệt.	0.82012963	Chính Trị
+133	Bồi thẩm đoàn trong phiên tòa xét xử George Zimmerman đối mặt với nhiệm vụ khó khăn.	Bồi thẩm đoàn xét xử vụ án Zimmerman.	0.86542106	Chính Trị
+134	Tỷ lệ thất nghiệp ở Eurozone đạt mức cao kỷ lục 12,2%.	Tỷ lệ thất nghiệp ở mức cao kỷ lục ở châu Âu.	0.86343557	Chính Trị
+135	Tỷ lệ cử tri đi bỏ phiếu thấp, Ai Cập kéo dài cuộc bầu cử tổng thống thêm một ngày.	Bầu cử tổng thống ở Ai Cập bước sang ngày thứ 3.	0.7788204	Tin Tức
+136	Triều Tiên chuẩn bị thử hạt nhân lần 4.	Triều Tiên có thể đang chuẩn bị báo cáo thử hạt nhân mới.	0.8532701	Tin Tức
+137	Summers từ bỏ cuộc đua giành chức vụ Fed.	Cổ phiếu nổi lên nhờ việc Summers rút khỏi cuộc đua vào Fed.	0.78055674	Tin Tức
+138	Hàn Quốc mở rộng vùng nhận dạng phòng không trước Trung Quốc.	Hàn Quốc tuyên bố mở rộng ADIZ chồng lấn với các vùng khác.	0.8444656	Tin Tức
+139	Các điều kiện tốt cho nỗ lực ổn định của Costa Concordia.	Các kỹ sư bắt đầu tham vọng trục vớt Costa Concordia ngoài khơi đảo Ý.	0.7612456	Xã Hội
+140	Trao đổi Trung Quốc - Myanmar kết thúc ở Tây Nam Trung Quốc. Myanmar chào đón nhiều trao đổi Trung Quốc hơn.	Myanmar chào đón nhiều trao đổi Trung Quốc hơn.	0.902443	Tin Tức
+141	Giữa các dấu hiệu của thỏa thuận, Kerry hướng tới Iran đàm phán hạt nhân.	Kerry hướng tới Geneva để đàm phán hạt nhân Iran.	0.8274093	Tin Tức
+142	Thẩm phán liên bang quy định rằng hôn nhân đồng giới là hợp pháp ở Utah.	Thẩm phán bãi bỏ lệnh cấm kết hôn đồng giới của Utah.	0.87441134	Tin Tức
+143	Úc gửi quân đội để bảo vệ đại sứ quán của mình ở Baghdad.	Quân đội được gửi đến để bảo vệ đại sứ quán.	0.8126799	Chính Trị
+144	Tổng thống Obama tìm kiếm sự chấp thuận của Quốc hội trước khi hành động ở Syria.	Pháp chờ quốc hội Mỹ quyết định về Syria.	0.8283121	Chính Trị
+145	Toyota, Honda, Nissan và Mazda triệu hồi 3 triệu ô tô Nhật Bản sau lỗi túi khí.	Honda, Nissan và Toyota triệu hồi hàng loạt lỗi túi khí.	0.88036406	Tin Tức
+146	Pháp hoan nghênh Mỹ - Nga đạt thỏa thuận về Syria.	Mỹ - Nga đạt thỏa thuận về Syria.	0.9504303	Tin Tức
+147	Thủ tướng Syria thoát khỏi âm mưu ám sát.	Thủ tướng Syria sống sót sau âm mưu ám sát.	0.9438567	Tin Tức
+148	Bầu cử vòng hai bầu cử tổng thống Afghanistan mở cửa.	Afghanistan bắt đầu vòng bầu cử vòng hai bầu cử tổng thống.	0.8940922	Chính Trị
+149	29 người chết trong 3 ngày bạo loạn ở Sudan.	Những ngày đẫm máu ở Sudan.	0.8130748	Tin Tức
+150	Obama kiên quyết không kích Syria.	Anh hối thúc các nước về viện trợ cho Syria.	0.7508054	Chính Trị
+151	Thủy thủ thiệt mạng trong vụ nổ tàu ngầm Ấn Độ.	Thủy thủ Ấn Độ thiệt mạng sau vụ nổ tàu ngầm và chìm.	0.9233499	Tin Tức
+152	5 người chết trong các cuộc đụng độ Cơ đốc giáo - Hồi giáo ở Ai Cập.	Ai Cập kêu gọi bình tĩnh sau các cuộc đụng độ chết người Cơ đốc giáo - Hồi giáo.	0.87205994	Tin Tức
+153	Maldives bắt đầu bầu cử tổng thống đầy tranh cãi.	Maldives tổ chức bầu cử tổng thống mới.	0.8703171	Chính Trị
+154	Nam Phi tưởng nhớ Nadine Gordimer.	 Tác giả Nadine Gordimer qua đời ở tuổi 90.	0.63105303	Văn Học
+155	21 bệnh nhân cao tuổi tử vong trong vụ hỏa hoạn ở Hàn Quốc.	Cháy bệnh viện dành cho người cao tuổi khiến 21 người tử vong ở Hàn Quốc.	0.8634703	Tin Tức
+156	Ít nhất 18 người thiệt mạng trong vụ đánh bom nhà thờ Hồi giáo ở Iraq.	Hơn 60 người thiệt mạng trong đám tang ở Iraq.	0.889824	Tin Tức
+157	Máy bay Malaysia chở 239 người mất tích.	Thủ tướng Malaysia nói vẫn chưa có dấu hiệu máy bay mất tích.	0.77117825	Tin Tức
+158	Máy bay Malaysia Airlines mất tích.	Máy bay chở khách của Malaysia Airlines có thể bị rơi.	0.7986851	Tin Tức
+159	3 người bị thương trong vụ tấn công của các tay súng ở Kabul.	Các tay súng tấn công Nhà thờ Hồi giáo Shi'ite ở Kabul.	0.7820798	Chính Trị
+160	Cảnh sát Thổ Nhĩ Kỳ bắn hơi cay, vòi rồng để giải tỏa công viên.	Cảnh sát chống bạo động giải tán người biểu tình ở công viên Istanbul.	0.8201089	Tin Tức
+161	Cuộc bầu cử tổng thống Afghanistan sẽ diễn ra vào tháng 6.	Ban bầu cử Afghanistan công bố kết quả cuối cùng.	0.6445611	Chính Trị
+162	Osborne nói rằng không lo lắng về giá nhà.	Osborne nói rằng thâm hụt có thể được xóa bỏ mà không cần tăng thêm thuế.	0.776004	Chính Trị
+163	Mười người được cứu ngoài khơi bờ biển Waterford, Dublin.	Sáu người được cứu sau khi thuyền bị lật ở Vịnh Dublin.	0.841282	Tin Tức
+164	Putin tuyên bố khai mạc Thế vận hội mùa đông Sochi.	Putin khai mạc Thế vận hội dành cho người khuyết tật khi cuộc biểu tình diễn ra.	0.666625	Thể Thao
+165	Đột kích mại dâm trẻ em giải cứu 105 thanh niên.	Mỹ truy quét mại dâm trẻ em khiến FBI bắt giữ 150 người.	0.7564844	Tin Tức
+166	Pháp có đường lối cứng rắn trong đàm phán hạt nhân Iran.	Ngoại trưởng Nhật thăm Iran để đàm phán.	0.6027664	Chính Trị
+167	Tay súng giết 9 du khách nước ngoài, 1 người Pakistan.	Tay súng xông vào khách sạn, giết người nước ngoài.	0.7756803	Tin Tức
+168	Quốc hội Ukraine bỏ phiếu phế truất tổng thống.	Thủ lĩnh phe đối lập Ukraine muốn có thêm biểu tình.	0.77190924	Chính Trị
+169	Hạ viện Thái giải tán, biểu tình vẫn dai dẳng.	Thủ tướng Thái giải tán quốc hội.	0.759289	Chính Trị
+170	An ninh thắt chặt tại Chung kết Hoa hậu Thế giới ở Indonesia.	Hàng chục người vẫn mất tích sau vụ chìm thuyền ở Indonesia.	0.66428506	Tin Tức
+171	Obama, Hollande Chào mừng quan hệ Mỹ - Pháp đã thay đổi.	Hollande đến thăm cấp nhà nước Hoa Kỳ.	0.7538743	Chính Trị
+172	Quốc hội Nga cho phép Putin dùng quân sự ở Ukraine.	Tổng thống Obama cảnh báo Nga tránh xa Ukraine.	0.8217625	Chính Trị
+173	Người biểu tình ở Brazil tuần hành ở 80 thành phố.	Các cuộc biểu tình ở Brazil đánh vào sự thất vọng của những người không có nhà cửa.	0.7208347	Chính Trị
+174	Hàng trăm người bị bao vây trong nhà thờ Hồi giáo Fateh của Ai Cập.	Hàng chục người chết trong cuộc tắm máu ở Ai Cập.	0.7789998	Chiến Tranh
+175	Mỹ xác định mức độ sử dụng vũ khí hóa học của Syria.	Những gì chúng ta biết cho đến nay về vũ khí hóa học trong cuộc nội chiến ở Syria.	0.784608	Tin Tức
+176	Tỷ phú tuyên bố chiến thắng ở Ukraine và hứa tìm kiếm tương lai ở EU.	Các điểm bỏ phiếu mở tại cuộc bầu cử tổng thống Ukraine.	0.69397616	Chính Trị
+177	Cuộc chiến ngấm ngầm ở Pakistan.	Động đất lớn mới rung chuyển tây nam Pakistan.	0.7812439	Tin Tức
+178	Obama ca ngợi hiệu ứng truyền cảm hứng của Mandela Obama gặp gia đình Mandela.	Obama gặp gia đình Mandela.	0.8166002	Tin Tức
+179	Nỗ lực cứu hộ tiếp tục trong thảm họa phà Hàn Quốc.	Sự tức giận lan rộng về vụ chìm phà ở Hàn Quốc.	0.68884104	Chính Trị
+180	Chứng khoán Ấn Độ mở cửa thấp hơn.	Chứng khoán Ấn Độ đóng cửa thấp hơn.	0.97815466	Thị Trường
+181	Chứng khoán Ấn Độ đóng cửa thấp hơn.	 Chứng khoán Ấn Độ đóng cửa cao hơn.	0.98803943	Thị Trường
+182	10 điều cần biết cho thứ tư.	10 điều cần biết cho ngày hôm nay.	0.88088137	Tin Tức
+183	Tổng chưởng lý Hoa Kỳ Holder từ chức.	Tổng chưởng lý Hoa Kỳ Eric Holder từ chức.	0.958246	Chính Trị
+184	Động đất 7,3 độ Richter tàn phá Nepal.	Động đất 7,9 độ Richter tàn phá Nepal.	0.9896825	Tin Tức
+185	Ngừng bắn ở Gaza kết thúc.	Lệnh ngừng bắn ở Gaza đang được tiến hành.	0.789552	Chiến Tranh
+186	Cổ phiếu Singapore mở cửa cao hơn 0,83% vào thứ Tư.	Cổ phiếu Singapore mở cửa thấp hơn 0,06% vào thứ Ba.	0.9821041	Kinh Tế
+187	4 người chết, nhiều người bị thương trong vụ tai nạn xe hơi ở Tây Nam Trung Quốc.	Hai người chết, 17 người bị thương trong vụ tai nạn đường Raiwind.	0.88829625	Tin Tức
+188	Biểu tình nổ ra trong Thế vận hội Bản địa Thế giới ở Brazil.	Biểu tình trước ngày khai mạc Thế vận hội Bản địa Thế giới.	0.87351817	Thể Thao
+189	Sáu thường dân thiệt mạng trong giao tranh mới ở miền đông Ukraine.	9 người thiệt mạng trong giao tranh ở miền đông Ukraine.	0.87680423	Tin Tức
+190	Mũ bảo hiểm của Shellios Technolabs giúp người lái xe môtô bảo vệ sức khỏe khi tham gia giao thông trên những con đường đầy ắp khói bụi.	Giúp con người tham gia giao thông trên con đường đầy ắp khói bụi là mũ bảo hiểm của Shellios Technolabs.	0.92061037	Khoa Học
+191	Robot OceanOneK của phòng thí nghiệm Stanford Robotics có thể lặn sâu một kilomet để thu hồi cổ vật, thám hiểm xác tàu đắm và sửa chữa công trình dưới biển.	Phòng thí nghiệm Stanfort Robotics phát minh ra robot oceanonek có thể lặn sâu một kilomet để thu hồi cổ vật, thám hiểm xác tàu đắm và sửa chữa công trình dưới biển.	0.97665274	Khoa Học
+192	Khoa học giúp con người phát triển về nhiều mặt của đời sống.	Con người có cuộc sống tốt hơn nhờ sự phát triển của khoa học.	0.8694649	Khoa Học
+193	Ngày 20/7/1969, Armstrong trở thành người đầu tiên đặt chân xuống Mặt Trăng.	Người đầu tiên đặt chân xuống mặt trăng là Armstrong.	0.81192136	Khoa Học
+194	Những hóa thạch càng cổ thì càng nằm sâu dưới các lớp đá.	Công viên hóa thạch khủng long nằm tại tỉnh Alberta của Canada được ví như một thánh địa của loài khủng long.	0.72468084	Khoa Học
+195	Than đá là khoáng sản của Việt Nam.	Tha đá tập chung nhiều nhất ở Quang Ninh.	0.62985766	Khoa Học
+196	Mặt trăng xoay quanh trái đất.	Trái đất có 70% bề mặt là nước.	0.70539904	Khoa Học
+197	Vaccin covid là một phát minh lớn giúp con người thoát khỏi sự diệt vong do covid gây ra.	Vaccine Pfizer (BNT162b2) là một trong số những ứng cử viên hứa hẹn nhất trong “cuộc đua” sản xuất vắc xin phòng đại dịch Covid-19.	0.75295544	Khoa Học
+198	Phát hiện trứng khủng long chứa pha lê tại Trung Quốc.	Tiêm vắc-xin phòng chống cúm bắt đầu vào những năm 1930 với quy mô lớn ở Hoa Kỳ bắt đầu vào năm 1945.	0.6287285	Khoa Học
+199	Zuckerberg cho ra đời Facebook trong phòng ký túc xá của mình tại Đại học Harvard vào ngày 4 tháng 2 năm 2004.	Vịnh Hạ Long là một vịnh nhỏ thuộc phần bờ tây vịnh Bắc Bộ tại khu vực biển Đông Bắc Việt Nam, bao gồm vùng biển đảo của thành phố Hạ Long thuộc tỉnh Quảng Ninh.	0.6698977	Khoa Học
+200	Người lái đò Sông Đà là bài tuỳ bút được in trong tập Sông Đà (1960) của Nguyễn Tuân.	“ Người lái đò sông Đà ” là một trong 15 bài tùy bút trong tập tùy bút “ Sông Đà ” của nhà văn Nguyễn Tuân, được sáng tác năm 1960.	0.91530037	Văn Học
+201	Ai đã đặt tên cho dòng sông? là bài bút kí xuất sắc, viết tại Huế, ngày 4-1-1981, in trong tập sách cùng tên.	“ Ai đã đặt tên cho dòng sông? ” là bài bút kí xuất sắc được Hoàng Phủ Ngọc Tường viết tại Huế ngày 4-1-1981, in trong tập sách cùng tên.	0.9640874	Văn Học
+202	Với một số hiểu biết về bệnh tật thu được trong nghề rao thuốc dạo, hắn chữa khỏi bệnh cho cụ cố và được tâng bốc là sinh viên trường thuốc rồi quan “ đốc-tờ ”.	Xuân được cụ cố khen là biết nhiều về y lí và nhân đó Văn Minh giới thiệu Xuân tóc đỏ là sinh viên trường thuốc và từ đó nghiễm nhiên trở thành quan Đốc.	0.9002488	Văn Học
+203	Truyện ngắn Làng của Kim Lân đã xây dựng thành công hình ảnh nhân vật ông Hai - một người nông dân chân chất nhưng mang nặng tình yêu làng và lòng yêu quê hương, có tinh thần kháng chiến mạnh mẽ.	Tình yêu làng và lòng yêu nước, tinh thần kháng chiến của người nông dân phải rời làng đi tản cư đã được thể hiện chân thực, sâu sắc và cảm động ở nhân vật ông Hai trong truyện Làng.	0.92168427	Văn Học
+204	Bây giờ Liên vội vàng vào thắp đèn, xếp những quả sơn đen lại, trong lúc An đi tìm then để cài cửa cho chắc chắn.	Liên đếm lại những phong thuốc lào, xếp vào hòm các bánh xà phòng còn lại, vừa lẩm nhẩm tính tiền hàng.	0.8367287	Văn Học
+205	Xuân Tóc Ðỏ đứng cầm mũ nghiêm trang một chỗ, bên cạnh ông Phán mọc sừng.	Xuân Tóc Ðỏ muốn bỏ quách ra chợt thấy ông Phán dúi vào tay nó một cái giấy bạc năm đồng gấp tư... 	0.69374263	Văn Học
+206	Với bé Thu, chiếc lược ngà là kỉ vật của người cha, là tình cảm yêu mến nhớ thương của người cha chiến sĩ nơi chiến khu dành cho mình.	Anh Sáu vẫn ngồi im, giả vờ không nghe, chờ nó gọi "ba vô ăn cơm ".	0.61190784	Văn Học
+207	Xuân Quỳnh là một trong những nhà thơ tiêu biểu của nền văn học Việt Nam hiện đại.	Tây Tiến là bài thơ tiêu biểu cho đời thơ Quang Dũng, thể hiện sâu sắc phong cách nghệ thuật của nhà thơ, được in trong tập Mây đầu ô.	0.8526615	Văn Học
+208	Ðiều băn khoăn của con cụ, ông Văn Minh, chỉ là mời luật sư đến chứng kiến cái chết của ông nội mà thôi.	HLV Park Hang-seo đã gọi khá nhiều tân binh và tuyển thủ U23 Việt Nam cho giải giao hữu lần này, song lựa chọn của ông sẽ là hai gương mặt ' mới mà cũ '.	0.7402542	Văn Học
+209	Đất nước là một thi phẩm xuất sắc, tiêu biểu nhất cho sự nghiệp thơ ca của Nguyễn Đình Thi.	Rafael Nadal vẫn còn rất nhiều cơ hội vượt qua Carlos Alcaraz chiếm ngôi số 1 thế giới, còn Novak Djokovic đang đứng trước nguy cơ không được tham dự ATP Finals 2022.	0.59053993	Văn Học
+210	Năm 2018, Á Quân của giải U23 Châu Á là U23 Việt Nam.	U23 Việt Nam giành Á Quân giải U23 Châu Á vào năm 2018.	0.87761116	Thể Thao
+211	Không có nền tảng sức khỏe tốt nghĩa là đối mặt với cả một núi khó khăn trong bóng đá.	Những người không có nền tảng sức khỏe tốt sẽ gặp rất nhiều khó khăn trong bóng đá.	0.8064215	Thể Thao
+212	Thể thao là một quá trình hoạt động nhằm tác động có chủ đích, có tổ chức theo những nhu cầu, lợi ích của con người.	Thể thao là hoạt động thể chất hay kỹ năng dành cho mục đích giải trí, thi đấu, rèn luyện bản thân, tăng cường sức khỏe.	0.8653992	Thể Thao
+213	Phải thừa nhận vận động viên là những người cần cù siêng năng, chịu khó.	Vận động viên có nhiều đức tính tốt như chăm chỉ, kiên trì và vượt qua các khó khăn trong sự nghiệp.	0.8219638	Thể Thao
+214	Bóng rổ là 1 môn thi đấu đối kháng trực tiếp giữa hai đội bóng.	Mục tiêu của trò chơi bóng rổ là đưa bóng vào rổ đối phương đồng thời hạn chế đối thủ ném bóng vào rổ.	0.82263535	Thể Thao
+215	Trượt ván  là bộ môn thể thao hành động bao gồm việc người trượt sẽ di chuyển và biểu diễn các kỹ thuật tương tác trên chiếc ván trượt.	Trượt ván là một hoạt động giải trí, một hình thức nghệ thuật, một nghề nghiệp trong ngành công nghiệp giải trí và là một cách thức di chuyển.	0.822806	Thể Thao
+216	Bóng đá là môn thể thao đồng đội được chơi với quả bóng hình cầu giữa hai đội với 11 cầu thủ mỗi bên.	Ngày hội thể thao bóng đá lớn nhất sẽ được tổ chức vào tháng 11 năm 2022.	0.7480739	Thể Thao
+217	Để có thể khoẻ mạnh chúng ta cần thường xuyên chơi thể thao.	Đá bóng giúp ta nâng cao thể lực bản thân.	0.7786665	Thể Thao
+218	Bóng đá Việt Nam bây giờ ngày càng phát triển.	Chơi thể thao giúp cho con người rèn luyện sức khoẻ.	0.66482407	Thể Thao
+219	Việt Nam đã thành công trong việc chuẩn bị Sea Games 31.	Bóng chuyền là một trong những môn thể thao phụ thuộc rất nhiều vào chiều cao.	0.5812229	Thể Thao
+220	Dormund được đánh giá mạnh hơn trước Mu trong trận đại chiến.	Dormund được nhận định là kèo trên trong trận đại chiến với Mu.	0.874128	Thể Thao
+221	Bước tiến đầu tiên của USA ở bang Califonia sau đợt phản công của quân đội Đức.	Mỹ đạt được thành công đầu tiên ở tỉnh Califonia.	0.8430861	Chiến Tranh
+222	Thái Bình: Sét đánh 5 người thiệt mạng trong 1 ngày.	Thảm họa thiên nhiên cụ thể là lôi sét khiến nhiều người thiệt mạng tại Việt Nam.	0.7101924	Tin Tức
+223	Dự báo thị trường xuất khẩu dệt may 4 tháng cuối năm và năm 2023 khá trầm lắng.	Thị trường xuất khẩu dệt may khá trầm vào cuối năm.	0.8973434	Thị Trường
+224	Giá xăng dầu giảm mạnh trong sáng ngày 21/9.	Giá vàng ngày 20/9 : Giá vàng thế giới và trong nước giảm nhẹ.	0.84687924	Tin Tức
+225	Giá lúa gạo ngày 20/9 : dầu thô trong nước tăng 100đ/1L.	Giá lúa gạo ngày 20/9 : Giá gạo trong nước giảm nhẹ.	0.8888772	Thị Trường
+226	Học giỏi toán giúp ích rất lớn cho lập trình.	Đoàn thể thao Olympic toán Việt Nam đạt giải.	0.65700126	Khoa Học
+227	Miền Bắc đón không khí lạnh đầu tiên.	Thời tiết miền Bắc thay đổi để chuẩn bị chuyển đông.	0.6078015	Tin Tức
+228	Đã có 24 người mất mạng tại vụ cháy karaoke Bình Dương.	Đội các siêu sao Dormund đã có mặt tại Việt Nam.	0.59187376	Tin Tức
+229	Di dân các tỉnh miền Trung để tránh siêu bão noru.	Đội tuyển Việt Nam thắng đậm singapore trong trận giao hữu.	0.56059927	Tin Tức
+230	Đi đâu không quan trọng, quan trọng là được đi cùng nhau.	Du lịch cùng nhau để có những khoảnh khắc đáng nhớ cùng nhau.	0.750924	Tin Tức
+231	Ai cũng phải đu di lịch để học hỏi.	Cách sống hướng ngoại mà một chuyến du lịch có thể dạy bạn.	0.68407726	Tin Tức
+232	Không gì giúp phát triển trí thông minh như là đi du lịch.	Ai cũng phải đu di lịch để học hỏi.	0.6801488	Tin Tức
+233	Kỳ tích sẽ xuất hiện từ sự chinh phục khó khăn.	Khó khăn không trường tồn, chỉ có con người cứng rắn trường tồn.	0.7358918	Tin Tức
+234	Du lịch đem lại nhận thức bảo vệ môi trường và động vật.	Việc đi du lịch giúp bạn thấu hiểu bản thân.	0.71358895	Tin Tức
+235	Du lịch làm ta cảm thấy yêu thương những sinh mệnh xung quanh.	Đi đó đây là ta mở mang đầu óc.	0.6490705	Tin Tức
+236	Du lịch là một cách xả stress tốt nhất.	Ai được đi nhiều nơi suy nghĩ của họ sẽ rất khác.	0.7158571	Tin Tức
+237	Để có tâm trạng thoải mái chúng ta nên đi nhiều nơi.	Đi xa giúp ta thay đổi cách nhìn về thế giới.	0.73798966	Tin Tức
+238	Đi nhiều nơi giúp ta mở mang thêm kiến thức.	Dubai là một đất nước nên tới để du lịch.	0.6794697	Tin Tức
+239	Việt Nam có nhiều địa điểm du lịch thú vị.	Việt Nam có nhiều danh lam thắng cảnh đẹp.	0.822854	Tin Tức
+240	Sự thông minh là khả năng thích ứng với những thay đổi.	Thích ứng với những thay đổi là khả năng của sự thông minh.	0.93441904	Khoa Học
+241	Động cơ hoạt động được nhờ có nhiên liệu.	Nhiên liệu giúp động cơ hoạt động.	0.7380681	Khoa Học
+242	Xã hội tồn tại nhờ niềm tin, và phát triển nhờ khoa học.	Niềm tin và phát triển của khoa học là 1 trong những điều để xã hội tồn tại.	0.839825	Khoa Học
+243	Hạt giống khoa học nẩy mầm là để nhân dân thu hoạch.	Nhân dân được hưởng nhiều cái từ công nghệ khi hạt giống khoa học nẩy mâm phát triển.	0.8651802	Khoa Học
+244	Sự xuất hiện của cá voi xanh đem lại hi vọng phục hồi loài động vật to lớn này.	Các nhà khoa học đã đếm được 58 con cá voi xanh ở khu vực, đem lại hi vọng phục hồi loài động vật to lớn này.	0.91363704	Khoa Học
+245	Một phát hiện hài hước và kỳ lạ khác của năm 2020 là việc bạch tuộc đôi khi biết dùng xúc tu để " đấm " vào đầu cá.	Những con bạch tuộc xanh lớn (Octopus cyanea) thường liên kết với cá để tìm thức ăn. Nhưng đôi khi không hài lòng với những con cá đó hoặc không muốn chia sẻ thức ăn cùng săn được, chúng sử dụng " chuyển động một xúc tu cực nhanh " để tạo ra một cú đánh thẳng vào đầu con cá.	0.83744854	Khoa Học
+246	NASA muốn có thêm tàu chở người tới Mặt Trăng.	NASA sẽ phóng tên lửa chở tàu vũ trụ không người lái tới quỹ đạo Mặt Trăng cuối tháng 9 nếu thử nghiệm đổ nhiên liệu diễn ra thành công.	0.8068691	Khoa Học
+247	Máy ảnh Năng lượng tối (DECam) chụp được bức ảnh tuyệt đẹp về một vùng hình thành sao cách Trái Đất 8000 năm ánh sáng.	Kính viễn vọng James Webb cung cấp quan sát mới về tinh vân Orion, tiết lộ quá trình hình thành sao cách xa 1350 năm ánh sáng. 	0.7717651	Khoa Học
+248	Các chuyên gia thu thập dữ liệu hội thoại để dạy robot cười đúng kiểu và đúng lúc, giúp cuộc trò chuyện với người trở nên tự nhiên hơn.	NASA có kế hoạch bổ sung ít nhất một tàu chở phi hành đoàn hạ cánh xuống cực nam của Mặt Trăng trong chương trình Artemis.	0.7501	Khoa Học
+249	Đời sống tình dục của bọ cạp táo bón, vịt con đi theo hàng, nai sừng tấm cao su, là những vật truyền cảm hứng cho các nhà nghiên cứu thắng giải Ig Nobel năm nay.	Cá sấu mẹ bị mất một chân cố gắng chăm sóc đàn con bằng cách xây tổ bảo vệ và mang chúng tới mép nước để tránh động vật ăn thịt.	0.78477633	Khoa Học
+250	Messi là cầu thủ rất khéo léo.	Không ai có thể đi bóng dẻo như Messi.	0.71922576	Thể Thao
+251	Messi là cầu thủ xuất sắc nhất từ trước đến nay.	Không ai có thể chơi bóng giỏi như Messi.	0.71396065	Thể Thao
+252	Bóng đá được chơi với bàn chân nóng và cái đầu lạnh.	Bóng đá không chỉ chơi bằng đôi chân, hãy chơi bằng cả trái tim của bạn.	0.675985	Thể Thao
+253	Bóng đá là môn thể thao được yêu thích nhất trên thế giới.	Tất cả mọi người đều đam mê bóng đá.	0.76249313	Thể Thao
+254	Bóng đá không phải một trò chơi – đó là lối sống.	Bóng đá được cấu thành từ máu, mồ hôi, và những giọt nước mắt.	0.65603185	Thể Thao
+255	Cuộc sống giống như bóng đá, chúng ta cần mục tiêu.	Không đam mê… Bạn sẽ không bao giờ chơi được bóng đá.	0.66917163	Thể Thao
+256	Đội bóng của bạn chính là gia đình thứ hai của bạn.	Bóng đá là 5% tài năng và 95% luyện tập.	0.61592114	Thể Thao
+257	Ghi bàn trong bất kỳ trận đấu nào luôn là khoảnh khắc hạnh phúc nhất.	Những vết sẹo từ bóng đá là những vết sẹo đẹp.	0.7172963	Thể Thao
+258	Camp Nou là sân vận động tọa lạc tại thành phố Barcelona.	Bugatti Chiron là một trong những chiếc xe nhanh nhất thế giới.	0.5114086	Thể Thao
+259	Maradona là một trong những cầu thủ xuất sắc nhất trong lịch sử bóng đá thế giới.	Nam Định là một trong những tỉnh nghèo.	0.5823233	Thể Thao
+260	Có nhiều học sinh thích môn tin học.	Môn tin học được khá nhiều học sinh yêu thích.	0.5823233	Công Nghệ Thông Tin
+261	Học sinh nào rồi cũng phải học qua tin học.	Đã là học sinh ai cũng phải học qua tin học.  	0.9310037	Công Nghệ Thông Tin
+262	Lập trình cần một bộ óc thông minh.	Những người thông minh thường có tư duy lập trình tốt.	0.786595	Công Nghệ Thông Tin
+263	Máy tính là thiết bị không thể thiếu với dân IT.	Máy tính là một thiết bị thông minh do con người lập trình.	0.7503345	Công Nghệ Thông Tin
+264	Công nghệ thông tin là một ngành không thể thiếu trong đời sống.	Cách đây 10 năm ngành công nghệ thông tin còn kém phát triển.	0.7949443	Công Nghệ Thông Tin
+265	Trí tuệ nhân tạo sẽ thay thế con người trong tương lai.	Trong một tương lai không xa máy móc sẽ thay thế con người.	0.8265741	Công Nghệ Thông Tin
+266	Học giỏi toán sẽ rất có ích cho lập trình.	Đoàn thể thao Olympic Toán của Việt Nam đã đoạt giải nhất.	0.6304318	Công Nghệ Thông Tin
+267	Ngôn ngữ lập trình rất đa dạng.	Để lập trình chúng ta phải thành thạo nhiều kỹ năng.	0.8020173	Công Nghệ Thông Tin
+268	Ấn Độ là một đất nước rất phát triển về lập trình.	Hiện nay có rất nhiều hệ điều hành.	0.68330735	Công Nghệ Thông Tin
+269	Ngành Công Nghệ Thông Tin hiện nay đang rất hot.	Đoàn thể thao Olympic Toán của Việt Nam đã đoạt nhiều HCV.	0.5423535	Công Nghệ Thông Tin
+270	Nhiều người thích môn tin học.	Môn tin học được khá nhiều người yêu thích.	0.7911203	Công Nghệ Thông Tin
+271	Nhân viên văn phòng nào rồi cũng phải học qua tin học.	Đã là nhân viên văn phòng ai cũng phải học qua tin học.  	0.9639604	Công Nghệ Thông Tin
+272	Lập trình cần một tư duy nhạy tốt.	Những người giỏi thường có tư duy lập trình tốt.	0.8442518	Công Nghệ Thông Tin
+273	Máy tính là thiết bị rất quan trọng với dân IT.	Máy tính là một thiết bị hỗ trợ do con người lập trình.	0.81381196	Công Nghệ Thông Tin
+274	Công nghệ thông tin là một ngành xu hướng trong tương lai.	Cách đây 10 năm ngành công nghệ thông tin còn kém phát triển.	0.81381196	Công Nghệ Thông Tin
+275	Trí tuệ nhân tạo sẽ thay thế con người trong tương lai.	Trong một tương lai không xa máy móc sẽ thay thế con người.	0.8265741	Công Nghệ Thông Tin
+276	Giỏi toán sẽ rất có ích cho lập trình.	Đoàn thể thao Olympic Toán của Việt Nam đã đoạt giải nhất.	0.6403823	Công Nghệ Thông Tin
+277	Ngôn ngữ lập trình rất đa dạng.	Để lập trình chúng ta phải thành thạo nhiều kỹ năng.	0.8020173	Công Nghệ Thông Tin
+278	Phương Tây là một nơi rất phát triển về lập trình.	Hiện nay có rất nhiều hệ điều hành do các nước tạo ra.	0.7306776	Công Nghệ Thông Tin
+279	Ngành Công Nghệ Thông Tin hiện nay đang rất hot.	Hiện nay nhiều người đổ xô theo học lập trình.	0.57089096	Công Nghệ Thông Tin
+280	Năm 2018, Á Quân của giải U23 Châu Á là U23 Việt Nam.	U23 Việt Nam giành Á Quân giải U23 Châu Á vào năm 2018.	0.87761116	Thể Thao
+281	Không có nền tảng sức khỏe tốt nghĩa là đối mặt với cả một núi khó khăn trong bóng đá.	Những người không có nền tảng sức khỏe tốt sẽ gặp rất nhiều khó khăn trong bóng đá.	0.8064215	Thể Thao
+282	Ấn Độ : Sét đánh 21 người thiệt mạng trong 1 ngày.	Thảm họa thiên nhiên cụ thể là lôi sét khiến nhiều người thiệt mạng tại ấn độ.	0.7004877	Tin Tức
+283	Dự báo thị trường xuất khẩu dệt may 4 tháng cuối năm và năm 2023 khá trầm lắng.	Thị trường xuất khẩu dệt may khá trầm vào cuối năm.	0.8973434	Thị Trường
+284	Du lịch đem lại nhận thức bảo vệ môi trường và động vật.	Việc đi du lịch giúp bạn thấu hiểu bản thân.	0.71358895	Tin Tức
+285	Du lịch làm ta cảm thấy yêu thương những sinh mệnh xung quanh.	Đi đó đây là ta mở mang đầu óc.	0.6490705	Tin Tức
+286	Đất rừng phương nam là một trong những tác phẩm của Đoàn Giỏi.	Đoàn Giỏi thường viết về cuộc sống, thiên nhiên và con người ở Nam Bộ.	0.75099003	Văn Học
+287	Số đỏ là một tiểu thuyết văn học của nhà văn Vũ Trọng Phụng.	Vũ Trọng Phụng là một nhà báo, nhà văn nổi tiếng ở Việt Nam vào đầu thế kỷ 20.	0.7899083	Văn Học
+288	Đã có 24 người mất mạng tại vụ cháy karaoke Bình Dương.	Đội các siêu sao Dormund đã có mặt tại Việt Nam.	0.59187376	Văn Học
+289	Di dân các tỉnh miền Trung để tránh siêu bão noru.	Đội tuyển Việt Nam thắng đậm Singapore trong trận giao hữu.	0.5746799	Thể Thao
+290	Tác phẩm Chí phèo là một kiệt tác được Nam Cao viết vào năm 1941.	Trong năm 1941, Nam Cao đã viết được kiệt tác Chí Phèo.	0.821126	Văn Học
+291	Nam Cao là người có tấm lòng thật đôn hậu, chán chứa yêu thương.	Nam Cao có tấm lòng nhân hậu và giàu tình thương.	0.8750148	Văn Học
+292	Nam Cao là tấm gương cao đẹp của một nhà văn chân chính.	Qua tác phẩm Chí Phèo, nhà văn Nam Cao đã khẳng định được tài năng của mình.	0.82480896	Văn Học
+293	Chí Phèo là kết tinh những thành công của Nam Cao trong đề tài nông dân.	Chí Phèo là tác phẩm phản ánh hình ảnh người nông dân bị đè nén, bóc lột.	0.81732744	Văn Học
+294	Chí Phèo là một truyện ngắn nói về người nông dân nghèo xã hội cũ.	Những ngày thơ ấu là tác phẩm truyện ngắn của tác giả Nguyên Hồng.	0.7341311	Văn Học
+295	Dế mèn phiêu lưu ký của tác giả Tô Hoài được các bạn nhỏ yêu thích.	Tác phẩm Số Đỏ đã lên án gay gắt cái xã hội tư sản thành thị Việt Nam đương thời.	0.6946074	Văn Học
+296	Đất rừng phương nam là một trong những tác phẩm của Đoàn Giỏi.	Đoàn Giỏi thường viết về cuộc sống, thiên nhiên và con người ở Nam Bộ.	0.75099003	Văn Học
+297	Số đỏ là một tiểu thuyết văn học của nhà văn Vũ Trọng Phụng.	Vũ Trọng Phụng là một nhà báo, nhà văn nổi tiếng ở Việt Nam vào đầu thế kỷ 20.	0.7899083	Văn Học
+298	Chí Phèo thuộc thể loại truyện ngắn.	Nhớ rừng là tác phẩm tiêu biểu cho phong trào thơ mới.	0.6711753	Văn Học
+299	Truyện Kiều gồm 3254 câu thơ theo thể lục bát.	Tắt đèn của Ngô Tất Tố là một tác phẩm văn học hiện thực phê phán.	0.7062051	Văn Học
+300	“ Đi vào tầm này mới có nhiều chim, vả lại giờ này mấy tay kiểm lâm không còn lượn lờ nữa – Ông H . kể - Hôm qua mấy thằng ở khu dưới bẫy chim xong không cất lưới bị kiểm lâm thu sạch, thế là mất toi mấy trăm ngàn bạc ”.	“ Đi vào tầm này mới có nhiều chim, vả lại giờ này mấy tay kiểm lâm không còn lượn lờ nữa – Ông H . kể - Hôm qua mấy thằng ở khu dưới bẫy chim xong không cất lưới bị kiểm lâm thu sạch, thế là mất toi mấy trăm ngàn bạc ”.	1.0	Tin Tức
+301	Hà Nội chỉnh trang đường phố chuẩn bị Sea Games 31.	Người dân Hà Nội dọn dẹp vệ sinh môi trường chào đón Sea Games 31.	0.7830343	Thể Thao
+302	Việt Nam đã xuất sắc dành được Á Quân tại giải U23 Châu Á năm 2018.	Năm 2018 thật tuyệt vời khi đội tuyển U23 Việt Nam dành Á Quân tại giải U23 Châu Á.	0.8806215	Thể Thao
+303	Thể thao là hoạt động thể chất hay kỹ năng dành cho mục đích giải trí, thi đấu, rèn luyện bản thân, tăng cường sức khỏe.	Để có một cơ thể khoẻ mạnh chúng ta cần phải rèn luyện thể thao thường xuyên.	0.82117474	Thể Thao
+304	Các vận động viên Việt Nam có một tinh thần thép.	Để có thể lên tuyển thi đấu các vận động viên cần phải có tinh thần vững chắc không ngại khó khắn.	0.7654474	Thể Thao
+305	Bóng rổ là 1 môn thi đấu đối kháng trực tiếp giữa hai đội bóng.	Mục tiêu của trò chơi bóng rổ là đưa bóng vào rổ đối phương đồng thời hạn chế đối thủ ném bóng vào rổ.	0.82263535	Thể Thao
+306	Cầu lông là môn thể thao dùng vợt thi đấu giữa 2 người hoặc 4 người.	Cầu lông được ra mắt chính thức vào năm 1873 tại Badminton House, Gloucestershire.	0.57220876	Thể Thao
+307	Bóng đá là môn thể thao đồng đội được chơi với quả bóng hình cầu giữa hai đội với 11 cầu thủ mỗi bên.	Ngày hội thể thao bóng đá lớn nhất sẽ được tổ chức vào tháng 11 năm 2022.	0.7480739	Thể Thao
+308	Để có thể khoẻ mạnh chúng ta cần thường xuyên chơi thể thao.	Đá bóng giúp ta nâng cao thể lực bản thân.	0.7786665	Thể Thao
+309	Bóng đá Việt Nam bây giờ ngày càng phát triển.	Chơi thể thao giúp cho con người rèn luyện sức khoẻ.	0.66482407	Thể Thao
+310	Việt Nam đã thành công trong việc chuẩn bị Sea Games 31.	Bóng chuyền là một trong những môn thể thao phụ thuộc rất nhiều vào chiều cao.	0.5812229	Thể Thao
+311	Lào, Campuchia và Việt Nam là 3 nước anh em rất khăng khít.	3 nước anh em rất khăng khít là Lào, Campuchia và Việt Nam.	0.8911585	Tin Tức
+312	Nam Định là 1 trong những thành phố đáng sống.	Những thành phố đáng sống trong đó có Nam Định.	0.84122366	Tin Tức
+313	Tình hình giữa 2 nước Nga và Ukraina đang rất căng thẳng.	Sự căng thẳng giữa Nga và Ukraina chưa có chuyển biến tích cực.	0.8276641	Tin Tức
+314	Dự báo thị trường xuất khẩu dệt may 4 tháng cuối năm và năm 2023 khá trầm lắng.	Thị trường xuất khẩu dệt may khá trầm vào cuối năm.	0.8973434	Tin Tức
+315	Du lịch đem lại nhận thức bảo vệ môi trường và động vật.	Việc đi du lịch giúp bạn thấu hiểu bản thân.	0.71358895	Du Lịch
+316	Du lịch làm ta cảm thấy yêu thương những sinh mệnh xung quanh.	Đi đó đây là ta mở mang đầu óc.	0.6490705	Du Lịch
+317	Cát Bà là 1 trong những địa điểm du lịch rất hấp dẫn.	Ra Cát Bà phải đi thuyền hoặc phà.	0.57720864	Du Lịch
+318	Hôm nay có vẻ nóng nên phải mặc áo chống nắng.	Trời nắng thế này được ngồi trong điều hòa là thích nhất.	0.72919846	Tin Tức
+319	Dịch Covid đang có xu hướng quay trở lại.	Thời điểm này rất thích hợp để đi du lịch.	0.66348386	Tin Tức
+320	Di dân các tỉnh miền Trung để tránh siêu bão noru.	Đội tuyển Việt Nam thắng đậm Singapore trong trận giao hữu.	0.5746799	Tin Tức
+321	MU nhận tin cực vui trước trận đại chiến Man City.	MU có dấu hiệu tốt trước trận đấu với Man City.	0.873832	Tin Tức
+322	Bước tiến đầu tiên của Nga ở tỉnh Kharkiv sau đợt phản công của quân đội Ukraina.	Nga đạt được thành công đầu tiên ở tỉnh Kharkiv.	0.70906067	Tin Tức
+323	Ấn Độ : Sét đánh 21 người thiệt mạng trong 1 ngày.	Sét đánh thiệt mạng rất nhiều người ở Ấn Độ.	0.8257803	Tin Tức
+324	Dự báo thị thời tiết cuối tuần này sẽ nắng và tuần tiếp theo trời lại nồm đến hết tuần.	Cuối tuần này trời nắng nhẹ.	0.77909374	Tin Tức
+325	Giá vàng sáng 21/9 giảm 100 nghìn đồng/1 lượng.	Giá xăng dầu ngày 21/9 đang giảm.	0.7533899	Tin Tức
+326	Giá lúa gạo ngày 20/9 : Gạo xuất khẩu tăng thị trường trong nước sôi động.	Giá vàng ngày 20/9 : Giá vàng thế giới và trong nước giảm nhẹ.	0.80978876	Tin Tức
+327	Hà Nội : Mưa lớn khiến nhiều tuyến phố ngập, cây đổ đè ô tô.	Dự báo thời tiết mưa lớn.	0.58716446	Tin Tức
+328	Miền Bắc đón không khí lạnh đầu tiên.	Thời tiết bắt đầu trở lạnh từ hôm nay.	0.6886852	Tin Tức
+329	Đã có 71 người thoát khỏi casino ở Campuchia.	Cháy lớn tại toà nhà viễn thông Trung Quốc.	0.6621721	Tin Tức
+330	Thời tiết cuối tuần nhiều nơi mưa to.	Đề nghị Hà Nội dừng cafe đường tàu.	0.4154576	Tin Tức
+331	Nam thanh niên đi bộ vào tiệm vàng Kim Huyền, đập vỡ tủ kính, vơ nữ trang ném ra đường.	Tại tiệm vàng Kim Huyền nam thanh niên đập vỡ tủ kính ném trang sức ra đường.	0.9212519	Tin Tức
+332	Ngày 2/11/2016, người chồng trình báo Papini mất tích.	Papini mất tích ngày 2/11/2016 do người chồng trình báo.	0.8476316	Tin Tức
+333	Lý Hải làm phim hành động khó trăm bề.	Lý do Lý Hải làm phim hành động gặp khó khăn.	0.8179767	Phim Ảnh
+334	Những lý do khiến phim hành động Việt nam yếu thế trong nước.	Vì thiếu kinh phí nên phim hành động Việt Nam không được khán giả trong nước ủng hộ nhiều. 	0.8234573	Phim Ảnh
+335	Sư tử biển suýt làm lật thuyền vì trốn cá voi sát thủ.	Sư tử biển có thể nặng tới 300kg.	0.6966746	Tin Tức
+336	Nhật Bản được mệnh danh là một đất nước sạch.	Nhiều bộ phim hoạt hình hay đều xuất phát từ Nhật Bản.	0.6569565	Tin Tức
+337	Cao tốc Vân Đồn - Móng Cái dài gần 80km, được trang bị, đầu tư đồng bộ hệ thống điện chiếu sáng dọc tuyến.	Đường cao tốc Hà Nội - Hải Phòng hay còn gọi là Quốc lộ 5B, là một trong 6 tuyến cao tốc được xây dựng theo quy hoạch tại miền Bắc Việt Nam.	0.7758519	Tin Tức
+338	Công chức, viên chức sẽ nghỉ Tết từ ngày 21/1/2023 đến hết ngày 29/1/2023 dương lịch.	Học sinh, sinh viên cũng sẽ có số ngày nghỉ lễ 2/9 như của giáo viên, giảng viên.	0.767939	Tin Tức
+339	Tuấn Hưng làm phó chủ tịch hội nghệ sĩ trẻ Hà Nội.	Bộ Quốc phòng tạm hoãn xét nghĩa vụ quân sự theo đề xuất của Bộ Giáo dục.	0.70613134	Tin Tức
+340	Triệu phú toàn cầu sẽ tăng vào năm 2026.	Giá xăng ngày mai có thể giảm 3 lần liên tiếp.	0.6406657	Tin Tức
+341	Biểu hiện hay gặp nhất của ung thư phổi là ho kéo dài nhưng rất nhiều người hay chủ quan nghĩ rằng ho do viêm họng.	Mọi người chủ quan nghĩ rằng ho kéo dài là do viêm họng nhưng đó là biểu hiện hay gặp nhất của ung thư phổi.	0.9675503	Sức Khoẻ
+342	Để tận dụng tối đa lợi ích của bữa ăn nhẹ lúc chiều, tốt hơn hết bạn không nên ăn nhẹ khi đang đứng hoặc ngồi trước máy tính.	Bạn không nên ăn nhẹ khi đang đứng hoặc ngồi trước máy tính để đảm bảo tối đa lợi ích của bữa ăn nhẹ lúc chiều.	0.9322758	Sức Khoẻ
+343	Bệnh viện là không gian trong đó tất cả các loại dịch vụ liên quan đến sức khỏe được phát triển.	Bệnh viện là một tổ chức chăm sóc sức khỏe cung cấp điều trị bệnh nhân với các nhân viên y tế và điều dưỡng chuyên ngành và thiết bị y tế.	0.81231296	Sức Khoẻ
+344	Tế bào là đơn vị cấu tạo cơ bản của mọi sinh vật.	Tế bào là đơn vị nhỏ nhất của sự sống có khả năng phân chia độc lập.	0.88131726	Khoa Học
+345	Tác hại của cà pháo đối với sức khỏe là vô cùng lớn.	 Một tách cà phê vào buổi sáng giúp tỉnh táo hơn.	0.64294434	Sức Khoẻ
+346	Trí nhớ giảm sút là hiện tượng người bệnh hay quên, khó tập trung, lơ đễnh.	Đề phòng đau cổ chân khi sút bóng quá mạnh.	0.73342305	Sức Khoẻ
+347	Những món ăn được chế biến từ thịt chim bồ câu có tác dụng bồi bổ cơ thể rất tốt người cao tuổi và trẻ em hoặc những người mới ốm dậy.	Rau câu là một món tráng miệng rất ngon và mát vào mùa hè.	0.7861366	Sức Khoẻ
+348	Tai nạn bất ngờ, xuất hiện cơn khó thở trong đêm, ngộ độc thức ăn, sốc phản vệ, … là những ca cấp cứu khẩn cấp đối với tính mạng và sức khỏe lâu dài của một người.	Người ta biết đến ca giấy với những đặc tính bảo vệ sức khỏe con người so với ca nhựa thông thường.	0.7875395	Sức Khoẻ
+349	Tài sản lớn nhất của đời người là sức khỏe và trí tuệ.	An toàn giao thông là hạnh phúc của mọi nhà.	0.6361822	Sức Khoẻ
+350	Để tận dụng tối đa lợi ích của bữa ăn nhẹ lúc chiều, tốt hơn hết bạn không nên ăn nhẹ khi đang đứng hoặc ngồi trước máy tính.	Tai nạn giao thông là nguyên nhân gây tử vong hàng đầu.	0.59557104	Sức Khoẻ
+351	Đài truyền hình VN chịu sự quản lý nhà nước của bộ Thông Tin và Truyền Thông.	Bộ Thông Tin và Truyền Thông quản lý Đài truyền hình Việt Nam.	0.9156159	Tin Tức
+352	MegaCar Koeniggsegs Jesko Absolut được dự đoán sẽ vượt qua kỷ lục tốc độ của Bugatti Chiron 300+.	Kỷ lục tốc độ của Bugatti Chiron 300+ có thể bị phá vỡ bởi siêu xe Koeniggseg Jesko Absolut.	0.9294722	Tin Tức
+353	Khi xưa, nhà Lý cho đắp đê sông hồng để phòng ngừa lũ lụt.	Nhân dân Đại Việt thời vua Lý Nhân Tông hoàn thành con đê sông Hồng đầu tiên vào năm 1108.	0.8359586	Lịch Sử
+354	Bác Hồ chính là người cha già vĩ đại đã dẫn dắt dân tộc Việt Nam ta bước qua cảnh lầm than, đến với tự do và độc lập.	Chủ tịch Hồ Chí Minh là người đã giải phóng dân tộc ta khỏi ách thống trị của thực dân xâm lược.	0.87844104	Lịch Sử
+355	Chiến dịch làm sạch hồ Tây của thành phố Hà Nội chính thức bắt đầu.	Hồ Tây là điểm đến lý tưởng của các du khách nước ngoài.	0.72223496	Du Lịch
+356	Đội tuyển toán Việt Nam đứng thứ 4 trong cuộc thi Olympic toán quốc tế.	Sau 19 năm, đội tuyển toán Việt Nam có thí sinh đạt điểm tối đa trong cuộc thi toán Olympic quốc tế.	0.91612405	Tin Tức
+357	Phạm nhân Triệu Quân Sự lại trốn khỏi trại giam.	Thụy Điển đóng cửa bốn nhà tù vì quá ít phạm nhân.	0.79706347	Tin Tức
+358	Hai đứa trẻ lớn lên nơi thành thị khó mà quen được với cuộc sống ở nông thôn.	Tuổi thơ của chị là chiến tranh, bom đạn, chết chóc và hình ảnh người mẹ còng lưng nhặt từng hạt thóc để nuôi bốn đứa con ăn học.	0.7628305	Tin Tức
+359	Cựu thủ tướng Nhật Bản Shinzo Abe qua đời.	Lạm phát ở Mỹ liên tục tăng cao trong 2 tháng.	0.45056805	Tin Tức
+360	Trung Quốc tổ chức cuộc tập trận quanh Đài Loan.	Hơn 5 giờ sáng, các sinh viên đã đứng chờ đăng ký nhập học.	0.6146405	Tin Tức
+361	Mũ bảo hiểm của Shellios Technolabs giúp người lái xe môtô bảo vệ sức khỏe khi tham gia giao thông trên những con đường đầy ắp khói bụi.	Giúp con người tham gia giao thông trên con đường đầy ắp khói bụi là mũ bảo hiểm của Shellios Technolabs.	0.92061037	Tin Tức
+362	Robot OceanOneK của phòng thí nghiệm Stanford Robotics có thể lặn sâu một kilomet để thu hồi cổ vật, thám hiểm xác tàu đắm và sửa chữa công trình dưới biển.	Phòng thí nghiệm Stanfort Robotics phát minh ra robot oceanonek có thể lặn sâu một kilomet để thu hồi cổ vật, thám hiểm xác tàu đắm và sửa chữa công trình dưới biển.	0.97665274	Tin Tức
+363	Khoa học giúp con người phát triển về nhiều mặt của đời sống.	Con người có cuộc sống tốt hơn nhờ sự phát triển của khoa học.	0.8694649	Khoa Học
+364	Ngày 20/7/1969, Armstrong trở thành người đầu tiên đặt chân xuống Mặt Trăng.	Người đầu tiên đặt chân xuống mặt trăng là Armstrong.	0.81192136	Khoa Học
+365	Những hóa thạch càng cổ thì càng nằm sâu dưới các lớp đá.	Công viên hóa thạch khủng long nằm tại tỉnh Alberta của Canada được ví như một thánh địa của loài khủng long.	0.72468084	Khoa Học
+366	Than đá là khoáng sản của Việt Nam.	Than đá tập chung nhiều nhất ở Quang Ninh.	0.6897101	Khoa Học
+367	Mặt trăng xoay quanh trái đất.	Trái đất có 70% bề mặt là nước.	0.70539904	Khoa Học
+368	Vaccin covid là một phát minh lớn giúp con người thoát khỏi sự diệt vong do covid gây ra.	Vaccine Pfizer (BNT162b2) là một trong số những ứng cử viên hứa hẹn nhất trong “ cuộc đua ” sản xuất vắc xin phòng đại dịch Covid-19.	0.76026845	Khoa Học
+369	Phát hiện trứng khủng long chứa pha lê tại Trung Quốc.	Tiêm vắc-xin phòng chống cúm bắt đầu vào những năm 1930 với quy mô lớn ở Hoa Kỳ bắt đầu vào năm 1945.	0.6287285	Tin Tức
+370	Zuckerberg cho ra đời Facebook trong phòng ký túc xá của mình tại Đại học Harvard vào ngày 4 tháng 2 năm 2004.	Vịnh Hạ Long là một vịnh nhỏ thuộc phần bờ tây vịnh Bắc Bộ tại khu vực biển Đông Bắc Việt Nam, bao gồm vùng biển đảo của thành phố Hạ Long thuộc tỉnh Quảng Ninh.	0.6698977	Tin Tức
+371	Các tác phẩm văn học thời chiến thường phản ảnh về những chế độ phong kiến man dợ.	Trong thời chiến các chế độ phong kiến man dợ được phản ảnh qua nhiều tác phẩm văn học.	0.9507786	Văn Học
+372	Văn học sẽ không là gì cả nếu không vì cuộc đời mà có.	Cuộc đời là nơi xuất phát và cũng là nơi đi tới của văn học.	0.7537995	Văn Học
+373	Những nhà văn có lập trường tư tưởng khác nhau, thậm chí đối nghịch nhau vẫn có thể cùng viết về một đề tài.	Một đề tài có thể được làm bởi nhiều nhà văn mặc dù họ có tư tưởng và lập trường đối nghịch nhau.	0.9355282	Văn Học
+374	Ðề tài có tính khách quan vì bản thân nó chưa thể hiện tính tư tưởng.	Tính tư tưởng của đề tài không nằm ở tính khách quan của nó.	0.8611114	Văn Học
+375	Có lẽ Nguyễn Ðình Thi là cây bút sinh ra để làm thơ, soạn nhạc hơn là viết văn xuôi.	Nhiều người có tài năng bẩm sinh là để làm thơ và soạn nhạc.	0.84004533	Văn Học
+376	Tắt đèn của Ngô Tất Tố tập trung phản ánh số phận bi thảm của người nông dân do chế độ sưu thuế.	Thời Phong kiến có nhiều chế độ bóc lột sức những người nông dân vô tội và nghèo.	0.87011874	Văn Học
+377	Nếu tác giả không có lối đi riêng thì người đó không bao giờ là nhà văn cả.	Một người muốn thành công thì phải tìm được lối đi cho chính mình.	0.8074	Văn Học
+378	Tác phẩm chân chính không kết thúc ở trang cuối cùng, không bao giờ hết khả năng kể chuyện khi câu chuyện về các nhân vật đã kết thúc.	Những tác phẩm được sáng tác bằng tâm hồn và tài năng của tác giả thì sẽ được lưu dấu đến mãi mãi.	0.75109714	Văn Học
+379	Trong cuộc sống văn học luôn giúp ta cảm thấy yêu đời và hiểu rõ thế giới nội tâm.	Không ai là giỏi nếu không có sự nỗ lực và kiên trì.	0.6185509	Văn Học
+380	Nền văn học việt nam phát triển và đề cập đến vấn đề xã hội theo từng thời đại.	Văn học là tâm hồn và là cảm hứng của các nhà văn.	0.7313988	Văn Học
+381	Đi đâu không quan trọng, quan trọng là được đi cùng nhau.	Du lịch cùng nhau để có những khoảnh khắc đáng nhớ cùng nhau.	0.750924	Du Lịch
+382	Ai cũng phải đi du lịch để học hỏi.	Cách sống hướng ngoại mà một chuyến du lịch có thể dạy bạn.	0.71372485	Du Lịch
+383	Không gì giúp phát triển trí thông minh như là đi du lịch.	Ai cũng phải đi du lịch để học hỏi.	0.7493342	Du Lịch
+384	Kỳ tích sẽ xuất hiện từ sự chinh phục khó khăn.	Khó khăn không trường tồn, chỉ có con người cứng rắn trường tồn.	0.7358918	Du Lịch
+385	Du lịch đem lại nhận thức bảo vệ môi trường và động vật.	Việc đi du lịch giúp bạn thấu hiểu bản thân.	0.71358895	Du Lịch
+386	Du lịch làm ta cảm thấy yêu thương những sinh mệnh xung quanh.	Đi đó đây là ta mở mang đầu óc.	0.6490705	Du Lịch
+387	Du lịch là một cách xả stress tốt nhất.	Ai được đi nhiều nơi suy nghĩ của họ sẽ rất khác.	0.7158571	Du Lịch
+388	Để có tâm trạng thoải mái chúng ta nên đi nhiều nơi.	Đi xa giúp ta thay đổi cách nhìn về thế giới.	0.73798966	Du Lịch
+389	Đi nhiều nơi giúp ta mở mang thêm kiến thức.	Dubai là một đất nước nên tới để du lịch.	0.6794697	Du Lịch
+390	Việt Nam có nhiều địa điểm du lịch thú vị.	Việt Nam có nhiều danh lam thắng cảnh đẹp.	0.822854	Du Lịch
+391	Mancity được đánh giá mạnh hơn trước Mu trong trận đại chiến.	Mancity được nhận định là kèo trên trong trận đại chiến với Mu.	0.88189185	Thể Thao
+392	Bước tiến đầu tiên của Nga ở  tỉnh Kharkiv sau đợt phản công của quân đội Ukraina.	Nga đạt được thành công đầu tiên ở tỉnh Kharkiv.	0.70906067	Tin Tức
+393	Ấn Độ : Sét đánh 21 người thiệt mạng trong 1 ngày.	Thảm họa thiên nhiên cụ thể là lôi sét khiến nhiều người thiệt mạng tại Ấn Độ.	0.7125945	Tin Tức
+394	Dự báo thị trường xuất khẩu dệt may 4 tháng cuối năm và năm 2023 khá trầm lắng.	Thị trường xuất khẩu dệt may khá trầm vào cuối năm.	0.8973434	Tin Tức
+395	Giá xăng dầu giảm mạnh trong sáng ngày 21/9.	Giá vàng ngày 20/9 : Giá vàng thế giới và trong nước giảm nhẹ.	0.84687924	Tin Tức
+396	Giá lúa gạo ngày 20/9 : dầu thô trong nước tăng 100đ/1L.	Giá lúa gạo ngày 20/9 : Giá gạo trong nước giảm nhẹ.	0.8888772	Tin Tức
+397	Học giỏi toán giúp ích rất lớn cho lập trình.	Đoàn thể thao Olympic toán Việt Nam đạt giải.	0.65700126	Khoa Học
+398	Miền Bắc đón không khí lạnh đầu tiên.	Thời tiết miền Bắc thay đổi để chuẩn bị chuyển đông.	0.6078015	Tin Tức
+399	Đã có 24 người mất mạng tại vụ cháy karaoke Bình Dương.	Đội các siêu sao Dormund đã có mặt tại Việt Nam.	0.59187376	Tin Tức
+400	Di dân các tỉnh miền Trung để tránh siêu bão noru.	Đội tuyển Việt Nam thắng đậm singapore trong trận giao hữu.	0.56059927	Tin Tức
+401	Tai nạn giao thông đang diễn ra hằng ngày gây thiệt hại rất lớn đến tính mạng con người.	Giao thông an toàn – Bảo đảm tính mạng con người.	0.7833204	Tin Tức
+402	Người tham gia giao thông sử dụng rượu bia khi tham gia giao thông, chạy xe quá tốc độ cho phép là những nguyên nhân dẫn đến tai nạn giao thông.	Những nguyên nhân dẫn đến tai nạn giao thông trong đó có sử dụng rượi bia và chạy xe quá tốc độ.	0.923507	Tin Tức
+403	Để tránh chấn thương sọ não. Hãy đội mũ bảo hiểm.	Hãy đội mũ bảo hiểm trước khi mọi chuyện trở nên quá muộn.	0.7352356	Tin Tức
+404	Tai nạn giao thông là nguyên nhân gây tử vong hàng đầu.	Gần 20.000 người chết vì tai nạn giao thông mỗi năm. Hãy tham gia giao thông an toàn.	0.7797617	Tin Tức
+405	Hãy chấp hành nghiêm luật giao thông đường bộ.	Phía trước tay lái là sự sống. Hãy lái xe bằng cả trái tim	0.5860162	Tin Tức
+406	Đội mũ bảo hiểm đạt chuẩn khi đi mô tô, xe gắn máy, xe đạp điện.	Thắt dây an toàn khi ngồi trên xe ô tô.	0.82674974	Tin Tức
+407	Lái xe an toàn vì nụ cười trẻ thơ và thế giới ngày mai.	Vấn đề an toàn giao thông luôn là nỗi lo hàng đầu của cả nước.	0.73032343	Tin Tức
+408	Tuyên truyền về an toàn giao thông là một trong những biện pháp giáo dục giúp thấm nhuần ý thức cho con người.	Quan sát tuân thủ đúng quy định an toàn khi vượt qua đường sắt.	0.78056514	TIn Tức
+409	An toàn giao thông là hạnh phúc của mọi nhà.	Đừng ngại thất bại, đó là con đường dẫn đến thành công.	0.67647076	Tin Tức
+410	Vì ngày mai hạnh phúc, hãy chấp hành tốt Luật Giao thông ngay hôm nay.	Mọi công việc thành đạt đều nhờ sự kiên trì và lòng say mê.	0.72679377	Tin Tức
+411	Ford quay lại sân chơi đua xe F1 chuyên nghiệp bằng động cơ mới.	Với động cơ mới Ford đã trở lại sân chơi đua xe F1.	0.93547153	Tin Tức
+412	Rashford không việt vị trong pha đánh đầu mở tỉ số.	Pha đánh đầu mở tỉ số cho MU Rashford đã phá bẫy việt vị thành công.	0.9099055	Thể Thao
+413	Thắng lợi 2 sao giúp MU phục hận kình địch Leeds.	MU đánh bại Leeds với cách biệt 2 bàn.	0.7895391	Thể Thao
+414	Những bàn thắng cuối trận giúp đội nhà có được chiến thắng trước đối thủ.	Đội nhà dành thắng lợi nhờ vào những bàn thắng cuối trận đấu để giữ vững ngôi đầu bảng một cách thuyết phục.	0.89748293	Thể Thao
+415	FPT Shop Ưu đãi đến 50% laptop cho sinh viên cùng nhiều phần quà hấp dẫn.	Sinh viên có thể được giảm lên tới 50% khi mua laptop tại FPT Shop.	0.8491835	Tin Tức
+416	Weghorst mừng hụt bàn thắng cuối trận khi anh rơi vào thế việt vị.	Bàn thắng không được công nhận vì Weghorst đã rơi vào thế việt vị.	0.9260201	Thể Thao
+417	Rashford đã không đuổi theo trái bóng vì biết mình ở vị trí việt vị sau đường chuyền của đội trưởng Fernandes.	Biết mình việt vị Rashford đã không tham gia vào pha bóng đó.	0.7912353	Thể Thao
+418	Cú sút tuyệt đẹp nhưng rất tiếc nó đã không thành bàn thắng.	Thủ môn đã xuất sắc cản phá một siêu phẩm.	0.5850052	Thể Thao
+419	Rộ tin đồn Apple tìm ra cách lách luật dù bị buộc sử dụng cổng USB-C.	Bị buộc sử dụng cổng USB-C Apple đã tìm ra cách lách luật.	0.866378	Tin Tức
+420	Đường đua AI càng lúc càng nóng khi các tập đoàn Trung Quốc đồng loạt thông báo sẽ tạo ra chatbot giống với ChatGPT.	ChatGPT là Chat Generative Pre-training Transformer - một chatbot do công ty khởi nghiệp OpenAI phát triển.	0.77977425	Tin Tức
+421	Sức hút của ChatGPT vẫn ngày một tăng lên, nhiều người truyền tai nhau về mức độ thông minh của con AI này đã khiến cho tính tò mò muốn được trải nghiệm.	ChatGPT vẫn chưa sử dụng được tại Việt Nam.	0.630788	Tin Tức
+422	Sắp tới bạn có thể nhờ ChatGPT soạn thảo văn bản ngay trong Microsoft Office!	Sắp tới Microsoft Office sẽ được tích hợp AI.	0.72503704	Tin Tức
+423	Đặt trước ngay iPhone 14 Pro Max để được ưu đãi.	Mua ngay iPhone 14 Pro Max với 32 triệu đồng.	0.8290219	Tin Tức
+424	Trái đất có 70% là nước trong đó nước có thể uống được chiếm một phần nhỏ.	Ô nhiễm nguồn nước là một vấn đề đáng báo động.	0.6412015	Khoa Học
+425	Covid 19 xảy ra như một cuộc chiến tranh thế giới thứ 3.	Rất nhiều người thiệt mạng vì Covid 19.	0.7072467	Tin Tức
+426	Đêm nay cơn bão sẽ đổ bộ về miền Trung nước ta.	Miền Trung sẽ phải đón một cơn bão trong đêm nay.	0.8855576	Tin Tức
+427	Messi trong một ngày được nâng cao chiếc cup vô địch thế giới.	Messi được nâng cao danh hiệu vô dịch World Cup.	0.8263486	Thể Thao
+428	Đội tuyển Đức một lần nữa lại phải về nước khi không thể vượt qua vòng bảng.	Năm thứ 2 liên tiếp đội tuyển Đức không thể vượt qua vòng bảng World Cup.	0.8585669	Thể Thao
+429	Gã hàng xóm ồn ào đã bị MU dạy cho một bài học với chiến thắng 2-1.	MU chiến thắng trước MC với tỉ số 2-1.	0.76452965	Thể Thao
+430	Bình luận viên đã hô lên rất lớn khi Việt Nam ghi bàn thắng mở tỉ số.	Bình luận viên rất xúc động khi Việt Nam ghi bàn.	0.75775564	Thể Thao
+431	Cuộc đào thoát của phi công Liên Xô lái chiếc máy bay tối mật nhưng hạ cánh nhầm xuống sân bay NATO.	Một sai lầm chết người của phi công Liên Xô.	0.70633155	Tin Tức
+432	Nội bộ dậy sóng vì Neymar.	Tiền đạo Neymar tranh cãi gay gắt với giám đốc thể thao sau trận thua xấu hổ.	0.70633155	Tin Tức
+433	VAR không kẻ vạch việt vị trong trận hoà của Arsenal.	Arsenal bị oan khi VAR mắc sai lầm.	0.7628608	Thể Thao
+434	Liverpool là câu lạc bộ được hưởng lợi nhiều nhất từ công nghệ VAR.	Công nghệ VAR giúp bóng đá trở lên công bằng hơn.	0.71701044	Thể Thao
+435	Manchester United là đội duy nhất ở Châu Âu vẫn còn thi đấu ở mọi đấu trường mà đội bóng này tham gia.	Manchester United là đội duy nhất vẫn thi đấu ở mọi đấu trường.	0.92972517	Thể Thao
+436	Cổ động viên Manchester United lo lắng cho tình hình chấn thương của Antony.	Một chấn thương nặng của Antony làm các cổ động viên lo lắng.	0.8723297	Thể Thao
+437	Ronaldo đã chuyển sang Châu Á thi đấu, liệu có phải bước lùi của siêu sao người Bồ?	Ronaldo chuyển sang thi đấu cho một đội ở Châu Á nhận mức lương cực khủng.	0.8243558	Thể Thao
+438	Huấn luyện viên trưởng thừa nhận đây chắc chắn là một mùa giải khó khăn của đội bóng.	Tình hình Covid 19 dần có chuyển biến tích cực hơn bao giờ hết.	0.6953429	Tin Tức
+439	Vị trí trên bảng xếp hạng sẽ thay đổi liên tục trong 2 lượt trận sắp tới của Arsenal và Man City.	ManUtd có thể mơ đến chiếc cup vô địch NHA mùa này nếu lượt trận Arsenal và Mancity mang kết quả thuận lợi cho họ.	0.81358635	Thể Thao
+440	Hàng chục con chó bị bắt trộm trong vài ngày vừa qua.	Mấy ngày vừa qua những con chó bị trộm với số lượng lớn.	0.84820276	Tin Tức
+441	Góc khuất sau cuộc sống hào nhoáng của người mẫu lấy chồng giàu.	Nguyễn Thúc Thuỳ Tiên lọt top 5 hoa hậu Việt Nam.	0.63273144	Tin Tức
+442	Nam thanh niên đột quỵ ngay trên bàn nhậu.	Đột quỵ ngay tại bàn nhậu vì uống rượu giả.	0.7692165	Tin Tức
+443	Đàm Vĩnh Hưng nghịch chim tại bể bơi.	Bức ảnh chụp được ca sĩ họ Đàm đang chơi với chú chim bồ câu ở bể bơi.	0.77263623	Tin Tức
+444	Lái xe khi bị tước giấy phép, tài xế tông chết người.	Tài xế tông chết người trong khi đã bị tước giấy phép từ trước.	0.8770697	Tin Tức
+445	Chủ nhà lĩnh án tù vì đánh chết người trộm chó.	Trộm chó bị chủ nhà đánh chết ngay tại chỗ.	0.81825936	Tin Tức
+446	Cựu chủ tịch quận hầu toà vì nhận hối lộ 500 triệu đồng.	Nhận hối lộ 500 triệu đồng, cựu chủ tịch quận hầu toà.	0.92321175	Tin Tức
+447	Thác Bản Giốc vào top đường biên giới tự nhiên đẹp nhất.	Tờ báo hàng đầu Hong Kong SCMP liệt kê những đường biên giới tự nhiên được đánh giá đẹp nhất thế giới, trong đó có thác Bản Giốc.	0.84541076	Du Lịch
+448	Nhóm du khách đánh nhau tại chùa Hương.	Do mâu thuẫn cá nhân nhóm du khách đánh nhau ngay tại chùa.	0.812538	Du Lịch
+449	Vụ nổ súng khiến hơn 4000 người mất mạng.	Vụ nổ súng vào đường dây mạng khiến hơn 4000 khách hàng mất kết nối internet.	0.7536472	Tin Tức
+450	Harry Styles thắng lớn tại Brit Awards.	Harry Styles lên nhận giải ở Brit Awards.	0.9091586	Tin Tức
+451	Nhồi máu cơ tim cấp gây biến chứng thủng vách tim - một tổn thương hiếm gặp, không xử trí sớm sẽ nguy hiểm tới tính mạng người bệnh.	Biến chứng nguy hiểm của nhồi máu cơ tim.	0.8518274	Sức Khoẻ
+452	Các thực phẩm có nguồn gốc thực vật giàu chất dinh dưỡng như kali, chất xơ, magie giúp giảm huyết áp, giảm hình thành cục máu đông.	Chế độ ăn giàu thực vật giúp giảm nguy cơ đột quỵ.	0.82993823	Sức Khoẻ
+453	Ung thư thận âm thầm không biến chứng.	Siêu âm phát hiện khối U to xác định ung thư thận.	0.7305723	Sức Khoẻ
+454	Người đàn ông 68 tuổi bị con vật đâm vào mặt trọng thương.	Trâu điên húc vào mặt người đàn ông trọng thương.	0.86612	Sức Khoẻ
+455	Nhiều người nói rửa mặt bằng nước muối giúp làm sạch, sáng da nhưng tôi dùng lại bị sạm, khô.	Rửa mặt bằng nước muối không đúng cách bị sạm da.	0.8514386	Sức Khoẻ
+456	Tôi năm nay hơn 70 tuổi nhưng chưa gặp trường hợp nào nó như thế này cả.	Giá một con chó cảnh có thể lên tới chục triệu đồng.	0.69893825	Tin Tức
+457	Chạy bộ giúp sức khoẻ dẻo dai hơn, giảm stress hơn.	Chạy bộ giúp giấc ngủ ngon hơn.	0.80435145	Sức Khoẻ
+458	Manchester United là đội vô địch Ngoại Hang Anh nhiều lần nhất.	Với 20 lần vô địch, Manchester United là đội có nhiều lần nâng chiếc cup Ngoài Hạng Anh nhất.	0.8931289	Thể Thao
+459	Real đã có 14 lần nâng cao chiếc cup C1 danh giá.	14 lần được nâng cao chiếc cup C1.	0.8543379	Thể Thao
+460	Real lập kỉ lục chưa từng có khi 3 lần liên tiếp vô địch C1.	Kỉ lục chưa từng có, Real 3 lần liên tiếp vô địch C1.	0.9520681	Thể Thao
+461	Trầm cảm không đau đớn về thể chất nhưng sự tuyệt vọng và nỗi sợ không tên nó bào mòn cơ thể từng giây từng phút.	Trầm cảm là căn bệnh đáng sợ nhất với chứng mất ngủ quái ác.	0.79602927	Sức Khoẻ
+462	Giá vàng thế giới có thể tiếp đà giảm.	Người người đổ xô nhau đi mua vàng đầu năm.	0.6144848	Kinh Doanh
+463	Các cây xăng chặt kín người vì giá xăng tăng vào ngày mai.	Ngày mai giá xăng tăng nên hôm nay các cây xăng chặt kín người.	0.90857464	Kinh Doanh
+464	Môi giới bất động sản Trung Quốc tuyệt vọng vì khách không mua nhà.	Các công ty địa ốc tung nhiều ưu đãi để hút khách hàng, nhưng người Trung Quốc vẫn ngần ngại vì sợ giá giảm thêm.	0.8162433	Kinh Doanh
+465	Facebook có thể bị ' giết chết ' bởi Tiktok.	Tiktok là môi đe doạ sự sống của Facebook.	0.69193715	Kinh Doanh
+466	Chủ tịch giả làm lao công để thử lòng nhân viên.	Một sai lầm chết người của nhân viên.	0.7734459	Tin Tức
+467	Man City rút ngắn khoảng cách với Arsenal.	Khoảng cách trên bảng xếp hạng giữa Arsenal và Man City đã được rút ngắn.	0.7989903	Thể Thao
+468	Bàn thắng của Rashford giúp Manchester United nội ngược dòng ngoạn mục ở phút bù giờ cuối cùng.	Manchester United nội ngược dòng thành công với công lớn của Rashford ở phút bù giờ cuối cùng.	0.96029556	Thể Thao
+469	Felix ghi bàn thắng đầu tiên cho Chelsea.	Enzo kiến tạo giúp Felix có bàn thắng đầu tiên cho Chelsea.	0.9309069	Thể Thao
+470	Màn trình diễn 5 sao của Enzo nhưng Chelsea vẫn bị đối thủ cầm hoà ngay tại sân nhà.	Chelsea phải chia điểm cho đối thủ ngay tại sân nhà.	0.86818343	Thể Thao
+471	Liverpool có một mùa giải đang quên nhất trong 7 năm dẫn dắt của Klopp.	Mùa giải thứ 7 của Klopp tại Liverpool thực sự đáng quên.	0.82621926	Thể Thao
+472	Arsenal đang có một mùa giải thăng hoa khi họ chỉ để thua mỗi Manchester United.	Manchester United là đội bóng duy nhất đánh bại được Arsenal ở mùa giải này.	0.86345255	Thể Thao
+473	Bàn phản lưới nhà đáng tiếc sau pha xử lý vụng về của Maguire.	Maguire phản lưới nhà sau pha chuyển về có phần vụng về.	0.8775573	Thể Thao
+474	Dịch Covid 19 được cho là có nguồn gốc tại Trung Quốc.	Trung Quốc được cho là nguồn gốc của Covid 19.	0.89320445	Tin Tức
+475	Apple đang có động thái cho ra mắt sản phầm iPhone thế hệ mới.	iPhone thế hệ mới sắp được Apple công bố.	0.82379293	Tin Tức
+476	Diễn viên đóng vai người phán xử đã qua đời sau thời gian dài chiến đấu với bệnh tật.	Sau thời gian dài chiến đấu với bệnh tật, diễn viên đóng vai Người phán xử đã qua đời.	0.9242143	Tin Tức
+477	Gần đây bán hàng online đang là xu hướng.	Tình hình Covid 19 làm cho người dân có thói quen mua hàng online.	0.71472335	Kinh Doanh
+478	ChatGPT đang đe doạ đến trình tìm kiến của Google.	Trình tìm kiếm của Google bị đe doạ bởi ChatGPT.	0.8086501	Tin Tức
+479	Haaland có nguy cơ bỏ lỡ trận đấu với Arsenal.	Chấn thương của Haaland có thể khiến anh ấy bỏ lỡ trận đại chiến với đối thủ trực tiếp cho ngôi vô địch là Arsenal.	0.7972727	Thể Thao
+480	Juventus có trận thắng thứ 2 liên tiếp.	Juventus đang có một mùa giải đáng buồn khi để mất điểm liên tục.	0.8092085	Thể Thao
+481	PSG bất ngờ thua trước Monaco.	Monaco trong ngày đánh bại PSG một cách thuyết phục.	0.7799454	Thể Thao
+482	Các tình nguyện viên phải nằm ngủ ở gầm cầu thang.	Các tình nguyện viên không có chỗ để ngủ.	0.83421785	Tin Tức
+483	Tottenham phả hơi nóng vào top 4 khi chiến thắng Man City.	Tottenham có thể có mặt trong top 4 mùa này khi chiến thắng trước Man City.	0.87945133	Thể Thao
+484	Man Utd dành thắng lợi với cách biệt tối thiểu trước Tottenham.	Man Utd chiến thắng Tottenham với cách biệt tối thiểu.	0.9101132	Thể Thao
+485	Cầu thủ bất ngờ nhận 2 thẻ vàng liên tiếp vì phản ứng với trọng tài.	Cầu thủ bị đuổi khỏi sân vì phản ứng với trọng tài.	0.86309874	Thể Thao
+486	Buổi sáng, thuỷ triều xuống, bãi rêu sẽ lộ ra nhiều hơn, cảnh đẹp nên ảnh sẽ đẹp nhất.	Thuỷ chiều xuống vào buổi sáng ảnh chụp sẽ đẹp nhất.	0.80438095	Du Lịch
+487	Bãi rêu trơn trượt, việc di chuyển khó khăn.	Di chuyển khó khăn hơn vì bãi rêu trơn trượt.	0.8607839	Du Lịch
+488	Vietjet tung loạt ưu đãi với các chuyến bay nội địa Việt Nam và quốc tế chỉ từ 1402 đồng.	Vietjet tung loạt vé chỉ 1402 đồng trong ngày lễ tình nhân.	0.83288443	Du Lịch
+489	Tà Xùa (huyện Bắc Yên) được gọi là thiên đường mây với nhiều địa điểm săn mây nổi tiếng như sống lưng khủng long, đỉnh gió, mỏm đá lạc đà.	Tà Xùa được gọi là thiên đường mây với nhiều địa điểm săn mây nổi tiếng như sống lưng khủng long, đỉnh gió, mỏm đá lạc đà.	0.98016596	Du Lịch
+490	Hoa mận Mộc Châu đang mùa đẹp nhất năm, thung lũng Nà Ka và Mu Náu là hai nơi được nhiều du khách lựa chọn.	Hai địa điểm ngắm hoa mận đẹp nhất Mộc Châu là Nà Ka và Mu Náu.	0.9107393	Du Lịch
+491	Paris tụt xuống hạng ba trong danh sách những thành phố lãng mạn nhất 2023, theo dữ liệu trên TripAdvisor.	Paris tụt xuống hạng ba trong danh sách những thành phố lãng mạn nhất 2023.	0.9358674	Du Lịch
+492	Hình thức trải nghiệm cắm trại trong rừng sâu giúp người tham gia rèn luyện các kỹ năng sinh tồn.	Cắm trại với những tiện nghi giúp người chơi thư giãn, tận hưởng, là hoạt động cắm trại tận dụng môi trường tự nhiên để sinh tồn.	0.87975526	Du Lịch
+493	Việt Nam là nơi du khách không chỉ có các chuyến tham quan thông thường, mà còn tìm thấy nhiều thời gian nghỉ ngơi, chăm sóc sức khỏe.	Việt Nam là điểm đến cho người thích sống chậm.	0.72825855	Du Lịch
+494	Bằng liệu pháp miễn dịch, các khối u vú trong cơ thể bệnh nhân 56 tuổi đã tiêu biến, bệnh không tái phát sau 10 năm.	Khỏi ung thư giai đoạn cuối nhờ liệu pháp miễn dịch.	0.8120468	Sức Khoẻ
+495	Man Utd gặp nhiều khó khăn trước lối chơi gây áp lực cường độ cao của Leeds.	Lối chơi khó chịu của Leeds khiến cho Man Utd gặp nhiều khó khăn.	0.8261274	Thể Thao
+496	Man Utd không dứt điểm lần nào trong hiệp hai cho đến khi Ten Hag thay người ở phút 61.	Ten Hag đã phải thay người ở phút 61 vì Man Utd không có pha dứt điểm nào ở hiệp hai.	0.94038445	Thể Thao
+497	Valverde cũng có lần đầu tiên nổ súng hai trận liên tiếp.	Real vô địch FIFA Club World Cup 2022.	0.53358376	Thể Thao
+498	Tiền vệ Modric thi đấu như thể đang ở độ tuổi 20.	Luka Modric thi đấu như hồi xuân.	0.7820325	Thể Thao
+499	Ronaldo lo sợ Messi sẽ phá kỉ lục ghi bàn ở C1 khi Ronaldo chuyển sang giải châu á.	Messi có cơ hội phá kỉ lục ghi bản của Ronaldo ở C1 khi Ronaldo sang Châu Á thi đấu.	0.90353405	Thể Thao
+500	PSG thua đậm khi thiếu Mbappe và Messi.	Thiếu Mbappe và Messi khiến cho PSG với tỉ số 3-1.	0.7055785	Thể Thao
+501	Đã có một thời những mối quan hệ lao động được xác lập bởi giá trị cơ bắp.	Đã có một thời người ta bình đẳng trong cơ chế “ trung bình chủ nghĩa ”.	0.7567426	Đời Sống
+502	Thành đã chọn cách thứ hai khi anh đến gõ cửa phòng tổng giám đốc và đề nghị : " Hãy cho tôi thêm sáu tháng nữa để làm lại mọi việc ".	Thành đến gõ cửa phòng giám đốc và nói : " Hãy cho tôi thêm sáu tháng nữa để làm lại mọi việc ".	0.9456953	Kinh Doanh
+503	Phần thưởng dành cho " công trạng " này là một suất du học cao học quản trị kinh doanh tại Úc.	Một suất du học cao học tại Úc là phần thưởng dành cho " công trạng " này.	0.92609036	Giáo Dục
+504	Thất bại cũng như khả năng chuyển bại thành thắng của Thành không lọt qua được mắt của những tập đoàn, công ty đa quốc gia.	Thất bại của Thành là không lọt qua được mắt của những tập đoàn, công ty đa quốc gia.	0.95462716	Kinh Doanh
+505	Thành là một trong năm sinh viên tình nguyện tham gia dự án điều nghiên này.	Thành là một trong năm sinh viên tình nguyện tham gia dự án này.	0.9668541	Giáo Dục
+506	Và lần đầu tiên trong đời, Thành đã kiếm được tiền : 50000 đồng cho một tuần đi khắp hang cùng ngõ hẻm!	Thành đã kiếm được một khoản tiền nhỏ trong lần làm ăn đầu tiên trong đời.	0.8467391	Kinh Doanh
+507	Nó khác hoàn toàn với những bộ môn đã học trong nhà trường.	Chưa từng học bộ môn nào như thế này ở trường cả.	0.79457355	Giáo Dục
+508	Tôi lao vào tiếp cận, học hỏi hầu hết các loại hình khảo sát lúc ấy : công nghiệp, hàng tiêu dùng, thói quen tiêu xài, sở thích xem truyền hình, ...	Tôi lao vào hỏi hầu hết các loại hình khảo sát lúc ấy : công nghiệp, hàng tiêu dùng, …	0.93509805	Kinh Doanh
+509	Bữa được người ta cho thì ăn no thở không nổi, bữa thèm một tô cơm với nước tương cũng không có.	Anh đi anh nhớ quê nhà, nhớ canh rau muống, nhớ cà dầm tương.	0.74920857	Văn Học
+510	Đêm tôi mò ra chợ, đón xe hàng về tranh nhau mót củ su củ cải bán kiếm tiền.	Tranh nhau mót củ su củ cải bán kiếm tiền trong đêm.	0.90217555	Kinh Doanh
+511	Tôi xin mẹ tôi cho một lời khuyên và sau đây tôi xin chuyển tới bà những suy nghĩ của mẹ tôi và cũng là của tôi.	Tôi muốn chuyển lời khuyên của mẹ mình và cũng là của tôi cho bà nghe.	0.9025546	Đời Sống
+512	Tôi không dám chắc mình có phải là người sáng suốt hay không nhưng tôi sẽ cố hết sức thành thật nhất.	Tôi luôn là người thành thật nhất.	0.8032268	Đời Sống
+513	Khi rời Hà Nội để dấn thân vào những trận chiến ác liệt ở miền Nam, Thùy chưa biết chiến tranh là thế nào.	Khi từ Bắc vào Nam, Thuỳ chưa biết chiến tranh là thế nào.	0.8581892	Chiến Tranh
+514	Chị đã học được những điều mà tất cả chúng ta đều cần phải học.	Chị đã học được điều mà tất cả chúng ta đều cần phải học.	0.99291575	Giáo Dục
+515	Cho đến lúc này tôi là người đã đọc đi đọc lại cuốn nhật ký nhiều hơn ai hết.	Tôi là người đọc đi đọc lại cuốn nhật ký này nhiều hơn ai hết cho đến nay.	0.9491699	Giáo Dục
+516	Nhưng đôi lúc nhịp sống quá nhanh khiến chúng tôi bỏ qua không nhìn thấy tình yêu của một người mẹ.	Đôi khi chúng ta không nhìn thấy tình yêu của một người mẹ vì cuộc sống bận rộn.	0.8872292	Đời Sống
+517	Chị ấy lấy đâu ra khả năng cảm thụ về cái đẹp?	Chị ấy lấy đâu ra khả năng cảm thụ về cái đẹp?	1.0	Du Lịch
+518	Tôi nghĩ mình đồng ý với ý kiến của mẹ tôi, và tôi hi vọng bà cũng sẽ nhìn thấy điều đó.	Tôi hi vọng bà ấy nhận ra chúng tôi cùng quan điểm.	0.76479197	Đời Sống
+519	Không thể để hình ảnh của mình lộ diện ở bất cứ tình huống nào.	Tôi cần bí mật hình ảnh của chính mình vì công việc.	0.7388805	Đời Sống
+520	Có một giai thoại đồng quê : “ Cậu bé nhìn dòng suối trước nhà và hỏi cha : Suối chảy về đâu, thưa cha?	Tôi biết đó chưa phải là tất cả, tôi tin còn rất nhiều người giỏi, người tài đâu đó ở những vùng miền khác nhau mà các bạn chưa tìm ra.	0.749633	Văn Học
+521	Tôi biết đó chưa phải là tất cả, tôi tin còn rất nhiều người giỏi, người tài đâu đó ở những vùng miền khác nhau mà các bạn chưa tìm ra.	Núi cao còn có núi cao hơn, tôi biết vẫn còn rất nhiều người tài giỏi.	0.8520575	Đời Sống
+522	Chúng tôi đi làm thuê thật nhưng chưa bao giờ thấy mình hèn, mà chỉ thấy mình chưa đủ mạnh để có thể lèo lái một con thuyền lớn.	Anh làm thuê với mức lương rất cao, nhưng cái được nhiều nhất chính là kinh nghiệm, là kiến thức và là lời giải cho câu hỏi : vì sao người ta lớn đến thế?	0.7617716	Kinh Doanh
+523	Anh làm thuê với mức lương rất cao, nhưng cái được nhiều nhất chính là kinh nghiệm, là kiến thức và là lời giải cho câu hỏi : vì sao người ta lớn đến thế?	Làm thuê để tích luỹ kinh nghiệm, kiến thức cho bản thân.	0.7227762	Kinh Doanh
+524	Nhưng hơn một năm nay chúng tôi chưa có kế hoạch tuyển người.	Công ty của chúng tôi chưa có kế hoạch tuyển người trong năm nay.	0.84654975	Kinh Doanh
+525	Tai nạn đã khiến cô dở dang con đường nghề nghiệp sau khi tốt nghiệp lớp trung cấp bưu điện và chờ quyết định đi làm và cũng dở dang cả lớp bồi dưỡng cảm tình Đảng.	Chị đã học được những điều mà tất cả chúng ta đều cần phải học.	0.64065266	Giáo Dục
+526	Cuộc chiến tranh quá khốc liệt, sự hi sinh diễn ra từng ngày, từng giờ.	Cuộc chiến tranh quá khốc liệt, sự hi sinh diễn ra từng ngày, từng giờ.	1.0	Chiến Tranh
+527	Có một điều chắc chắn là chị tôi hi sinh trong tư thế đương đầu với giặc.	Tôi chắc chắn rằng chị tôi hi sinh trong tư thế ngẩng cao đầu.	0.8575489	Chiến Tranh
+528	Người lính nọ kể cho Fred nghe một trận đánh lạ lùng mà anh ta đã tham dự.	Fred được nghe kể về một trận đánh.	0.8392196	Chiến Tranh
+529	Đó là một trận đánh không cân sức giữa 120 lính Mỹ với một người phụ nữ.	Một trận đánh giữa 1 người phụ nữ và 120 tên lính Mỹ.	0.87719893	Chiến Tranh
+530	Anh ta tả lại người con gái nhỏ nhắn với chiếc túi vải bạt trên người, trong đựng vài quyển sổ nhỏ có vẽ những sơ đồ vết thương và phác đồ điều trị.	Trên người cô gái có vài quyển sổ nhỏ có vẽ những sơ đồ vết thương và phác đồ điều trị.	0.9440959	Chiến Tranh
+531	Tôi đang ngồi chờ một trận đánh cùng một đơn vị lính Mỹ.	Tôi đang ngồi chờ một trận đánh cùng đơn vị.	0.85880625	Chiến Tranh
+532	Ngồi bên cạnh tôi là một người lính và chúng tôi nói với nhau về những trận đánh đã từng tham dự.	Chúng tôi kể cho nhau nghe về những trận đánh.	0.8134937	Chiến Tranh
+533	Ngay lập tức có một người nổ súng vào họ.	Ngay lập tức có một người nổ súng vào họ.	0.99999994	Chiến Tranh
+534	Khi đến được nơi người kia nằm toán lính Mỹ nhận thấy người đó đang bảo vệ các bệnh nhân trong một bệnh viện.	Tôi đã mang điều này trong lòng quá lâu và tôi vẫn đang đi tìm câu trả lời.	0.7080895	Chiến Tranh
+535	Trong chiến tranh nhiệm vụ của tôi là kiểm tra tất cả các giấy tờ, tài liệu bắt được của đối phương.	Nhiệm vụ của tôi là kiểm tra các giấy tờ, tài liệu của đối phương.	0.90812725	Chiến Tranh
+536	Tôi đã mang điều này trong lòng quá lâu và tôi vẫn đang đi tìm câu trả lời.	Tôi đã suy nghĩ điều này quá lâu và đang đi tìm câu trả lời.	0.9395941	Đời Sống
+537	Trận đánh mà người lính nọ tả lại cho tôi đúng là điều đã xảy ra.	Anh ấy tả lại cho tôi đúng là điều đã xảy ra.	0.92155206	Chiến Tranh
+538	Dẫu sao nó cũng chưa từng phải nếm vị mặn của chiến tranh.	Cô gái ấy chưa từng biết chiến tranh là như thế nào.	0.78107	Chiến Tranh
+539	Nó chưa từng biết đến cảm giác nát tim khi nhìn thấy những người lính ngã xuống trên trận địa.	Dẫu sao nó cũng chưa từng phải nếm vị mặn của chiến tranh.	0.82548034	Chiến Tranh
+540	Một người mẹ nhất thiết phải được biết về cuộc đời và những suy nghĩ của con gái mình.	Một người mẹ nhất thiết phải được biết về cuộc đời và những suy nghĩ của con gái mình.	1.0	Đời Sống
+541	Những lúc không hành nghề luật sư hay khoa học, tôi trở thành một người làm vườn.	Những lúc rảnh rỗi tôi là một người làm vườn.	0.8564044	Đời Sống
+542	Nhiều hộ nghĩ ra cách năm ba người góp tiền để một hộ xây nhà trước, sau đó những hộ này góp lại cho người khác xây.	Nhiều người phải góp chung tiền để xây nhà.	0.8023655	Đời Sống
+543	Khó khăn thật nhiều nhưng chẳng ai kêu khó.	Không ai dám kêu khó mặc dù rất khó khăn.	0.8065114	Đời Sống
+544	Sau chiến tranh, đi từ đầu đến cuối làng, nhà nào cũng chỉ dùng thân cây dương bắt chéo rồi gác thêm một cây nữa làm đòn dông lợp tranh lên ở.	Nhà nào cũng dùng thân cây dương bắt chéo rồi gác thêm một cây nữa làm đòn dông lợp tranh lên ở.	0.9485941	Đời Sống
+545	Sau một trận chống càn ngoài rìa làng, tin dữ bay về : ba hi sinh.	Sau trận đánh ba đã hi sinh.	0.79626894	Chiến Tranh
+546	Có một người con gái tuổi 20.	Có một nữ thiếu niêm.	0.5400299	Đời Sống
+547	Có cái gì mong đợi tha thiết trong lòng.	Những trang nhật ký cuối cùng.	0.5935824	Đời Sống
+548	Những trang nhật ký cuối cùng.	Những trang nhật ký cuối cùng.	1.0000001	Giáo Dục
+549	Sao mấy bữa rày trong tâm tư mình nặng trĩu nhớ thương, đêm đêm mình mơ thấy miền Bắc.	Đêm đêm mình mơ về nhà, tâm tư mình nặng trĩu nhớ thương.	0.90193826	Đời Sống
+550	Mong những người về bổ sung cho bệnh xá để có thể đảm đương nhiệm vụ nặng nề trong những ngày tới.	Và niềm mong ước lớn lao nhất là hòa bình, độc lập để mình lại trở về sống trọn trong lòng mẹ.	0.6548376	Đời Sống
+551	Và niềm mong ước lớn lao nhất là hòa bình, độc lập để mình lại trở về sống trọn trong lòng mẹ.	Hoà bình, độc lập, mình lại trở về sống trong vòng tay của gia đình.	0.8334057	Đời Sống
+552	Không gian êm ả, nếu không có tiếng máy bay thô bạo xé nát bầu trời thì không có gì khác đâu ngoài tiếng suối rì rào chảy!	Tiếng tàu bay thô bạo xé nát cả bầu trởi.	0.84599286	Chiến Tranh
+553	Sau trận bom, mọi người nhận định điểm này đã bị lộ, vội lập tức triển khai tìm điểm khác làm nhà để chuyển đi.	Mọi người triển khai tìm điểm khác làm nhà để chuyển đi sau trận bom.	0.8985177	Chiến Tranh
+554	Trong nhà lênh láng nước, đứa nào đứa nấy ướt sũng, luôn tay hứng mưa dột và đổ nước ra ngoài.	Nước tràn cả vào nhà, ai nấy đều ướt sũng.	0.87849635	Đời Sống
+555	Mấy thương binh ngồi co ro ướt lướt thướt.	Mấy thương binh ngồi co ro ướt lướt thướt.	0.9999998	Chiến Tranh
+556	Nhìn những cảnh đó mình cười mà nước mắt chực trào ra trên mi.	Nhìn những cảnh như vậy mình không thể cầm được nước mắt.	0.8598747	Đời Sống
+557	Chắc nhiều người biết nhưng cũng không ai biết cho tường tận.	Để biết được tường tận thì ít ai biết được.	0.7988151	Đời Sống
+558	Sinh tử không thể nào mà ghi hết, mà có lẽ cũng không nên nói hết để làm gì.	Sinh tử không thể biết trước được điều gì.	0.8193495	Đời Sống
+559	Những lá thư mình viết cũng không bao giờ kể hết với những người thân yêu về tất cả nỗi khổ mình đã trải qua.	Mình không thể kể hết với những người thân yêu về tất cả nỗi khổ mình trải qua.	0.96104854	Đời Sống
+560	Ước mong của em chỉ là hòa bình trở lại để em được về với má em.	Ước mong của em chỉ là hòa bình trở lại để em được về với gia đình.	0.95800686	Chiến Tranh
+561	Chúng mình đang sống trong những ngày căng thẳng tột bậc.	Những ngày căng thẳng tột bậc vẫn còn tiếp diễn.	0.7985669	Chiến Tranh
+562	Nghe tiếng máy bay quần trên đầu mình thấy thần kinh căng thẳng như một sợi dây đàn lên hết cỡ.	Nghe tiếng máy bay mình thấy hoảng sợ.	0.8043517	Chiến Tranh
+563	Vậy đó, lửa thử vàng gian nan thử sức.	Vàng thật không sợ thử lửa.	0.70238435	Đời Sống
+564	Ôi miền Bắc xa xôi, bao giờ ta trở lại?	Ôi miền Bắc xa xôi, bao giờ ta trở lại?	1.0	Du Lịch
+565	Nếu địch sục vào đây chắc không có cách nào khác hơn là bỏ chạy!	Giờ chỉ biết bỏ chạy nếu địch xông vào đây.	0.8364339	Chiến Tranh
+566	Niên năm nay 19 tuổi, em công tác ở đội an ninh thị trấn.	Niên công tác ở đội an ninh thị trấn.	0.88596666	Đời Sống
+567	Rừng chiều im lặng một cách dễ sợ.	Rừng im lặng một cách dễ sợ.	0.9236753	Du Lịch
+568	Bất giác mình quên đi tất cả, quên cái không khí nặng nề đang đè nặng trên mình suốt mấy ngày nay.	Không khí nặng nề đang đè nặng trên mình suốt mấy ngày nay.	0.9006022	Đời Sống
+569	Mình không rời vị trí quan sát một phút nào nhưng đầu óc mình lại là những cảnh của ngày đoàn tụ sum họp.	Trong đầu luôn hiện lên cảnh gia đình đang sum vầy, tụ họp.	0.83486295	Đời Sống
+570	Ôi! Cuộc sống đổi bằng máu xương, tuổi trẻ của bao nhiêu người.	Cuộc sống đổi bằng máu xương, tuổi trẻ của bao người.	0.9557446	Đời Sống
+571	Hôm nay gạo chỉ còn ăn một bữa chiều nữa là hết.	Hôm nay gạo không còn đủ để ăn.	0.8275261	Đời Sống
+572	Đó là những dòng chữ cuối cùng của chị Thùy Trâm.	Những dòng chữ cuối cùng của Đặng Thuỳ Trâm.	0.8839436	Giáo Dục
+573	Câu chuyện về cuộc chiến đấu cuối cùng của người nữ bác sĩ trong niềm tin của một cựu chiến binh Mỹ.	Câu chuyện về cuộc chiến cuối cùng của nữ bác sĩ.	0.9174632	Giáo Dục
+574	Số báo ngày mai sẽ kể với bạn một câu chuyện khác.	Câu chuyện về cuộc chiến cuối cùng của nữ bác sĩ.	0.67770565	Giáo Dục
+575	Bao nhiêu kỷ niệm lần lượt hiện ra trong óc mình.	Bao nhiêu kỉ niệm lần lượt hiện ra trước mắt.	0.8799819	Đời Sống
+576	Hôm nay trở lại nhìn những nền nhà sụp đổ, ngổn ngang thân cây cháy lòng mình tràn ngập xót thương.	Nhà cháy lòng mình tràn ngập xót thương.	0.82969177	Đời Sống
+577	Nhiệm vụ của ta là phải đấu tranh cho lẽ phải.	Nhiệm vụ của ta là phải đấu tranh cho chính nghĩa.	0.9302792	Chiến Tranh
+578	Tiếng súng chiến thắng đang nổ giòn khắp chiến trường Nam Bắc.	Chiến trường Nam Bắc đang ngập tràn tiếng súng.	0.8224665	Chiến Tranh
+579	Tôi liên hệ bệnh viện không được nên ra cửa hàng thuê một bình để ở nhà cho tiện nhưng không yên tâm vì chẳng biết họ bơm oxy chất lượng thế nào.	Lần đầu tiên ngồi máy bay trực thăng nên tôi có cảm giác bồn chồn lạ lắm!	0.6667378	Sức Khoẻ
+580	Chẳng tốn bao nhiêu mà ai cũng thấy nhẹ nhõm người.	Ai cũng nhẹ nhõm người mặc dù chẳng tốn là bao.	0.8103868	Đời Sống
+581	Chúng tôi làm quen với nhau rất nhanh vì Khăm Xúc có bốn năm học ở VN nên nói tiếng Việt khá sõi.	Anh ấy có 4 năm học ở Việt Nam nên nói tiếng Việt khá tốt.	0.91293126	Đời Sống
+582	Lần đầu tiên ngồi máy bay trực thăng nên tôi có cảm giác bồn chồn lạ lắm!	Lần đầu tiên ngồi máy bay trực thăng nên tôi có cảm giác hơi sợ.	0.90980315	Du Lịch
+583	Xung quanh sân bay là một hệ thống hầm ngầm xuyên vào núi đá.	Xung quanh sân bay là hệ thống hầm ngầm.	0.8959253	Du Lịch
+584	Tựa người vào chiếc xe đạp vuốt vội mồ hôi chảy ròng trên mặt, anh kể ba cha con đã cùng đến trường suốt chín năm nay.	Suốt 9 năm, ba cha con anh ấy ở chiến trường.	0.791106	Chiến Tranh
+585	Sau hòa bình, tui về quê lập gia đình vào năm 1985.	Tôi lập gia đình vào năm 1985.	0.8320239	Đời Sống
+586	Vợ chồng anh đã cố nuôi con với hi vọng một ngày sẽ chữa được cho con lành lặn.	Vợ chồng anh đã cố nuôi con với hi vọng một ngày sẽ chữa được cho con lành lặn.	0.9999999	Sức Khoẻ
+587	Thương con, anh cố gạt nước mắt đưa con đến trường.	Anh cố gạt nước mắt đưa con tới trường vì thương con.	0.9503158	Giáo Dục
+588	Dung kể về người bạn da cam của mình.	Dung kể về một người bạn nhiễm chất độc màu da cam.	0.8530468	Sức Khoẻ
+589	Nhìn cảnh này tôi mới cảm nhận được một hạnh phúc mặn chát.	Tôi cảm nhận được hạnh phúc khi thấy cảnh này.	0.8744991	Đời Sống
+590	Không biết cái khát vọng ấy có trở thành hiện thực không?	Không biết cái khát vọng ấy có trở thành hiện thực không?	0.9999999	Đời Sống
+591	Nhìn con buồn vì không được đi học nên tui lại cố.	Tôi phải cố vì không muốn con phải buồn vì không được tới lớp.	0.8693147	Giáo Dục
+592	Linh tính cho biết có điềm chẳng lành nên tôi triển khai cho anh em cẩn thận dò mìn để mở tuyến.	Cảm giác bất an nên tôi triển khai cho anh em cẩn thận dò mìn để mở tuyến.	0.9466799	Chiến Tranh
+593	Nếu sai hẹn chúng sẽ huy động lực lượng xuống đốt cháy cả bản.	Chúng sẽ đốt cháy cả làng nếu chúng ta sai hẹn.	0.7316035	Chiến Tranh
+594	Lính thả dây xuống, tôi lại bám đá, bám dây bò lên.	Lính thả dây xuống, tôi lại bám đá, bám dây bò lên.	1.0000001	Chiến Tranh
+595	Đến một ngã tư, đoàn xe tải dừng lại trước những kho chứa đầy hàng mây tre đan.	Kho chứa đầy hàng mây tre đan.	0.81409204	Đời Sống
+596	Nhiều gia đình vừa thu hoạch xong đã phải đi vay, mua gạo chịu vì trước đó đã bán lúa non.	Nhiều gia đình vừa thu hoạch xong đã phải đi vay gạo về ăn.	0.9008852	Đời Sống
+597	Không khí đan hàng rộn rịp trong từng gia đình, nhưng không ai cảm nhận cái nắng nóng rát da người.	Mọi người bận rộn đến nỗi không ai cảm nhận được cái nắng nóng rát da người.	0.8846867	Đời Sống
+598	Nghe ở đâu có thế mạnh về mặt hàng này là ông tìm đến.	Trở về, ông bắt đầu tổ chức cho những người trong gia đình làm.	0.66100407	Kinh Doanh
+599	Trở về, ông bắt đầu tổ chức cho những người trong gia đình làm.	Ông tạo công ăn việc làm cho từng người trong gia đình.	0.7117475	Kinh Doanh
+600	Họ bắt đầu say mê công việc.	Họ bắt đầu tập trung vào làm nhiệm vụ của mình.	0.81464946	Kinh Doanh
