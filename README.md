@@ -1,7 +1,13 @@
-lấy dự án về máy:
+lấy kho lưu trữ về máy:
 
 git clone https://github.com/luongducthangDS/NCKH.git
 
-làm việc trên vscode
+thực hiện thay đổi và đẩy lên remote
 
-cd NCKH/tên thành viên
+git add .
+git commit -m "Thêm báo cáo tuần 1"
+git push origin main
+
+lấy cập nhật mới
+
+git pull origin main
